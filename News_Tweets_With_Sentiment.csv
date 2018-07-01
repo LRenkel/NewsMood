@@ -1,0 +1,671 @@
+,text,created_at,news_org,sentiment,positive,negative,neutral,compound,tweets_ago
+0,Mexico election: Five things you need to know https://t.co/tHoFD8njt1,Sat Jun 30 23:48:09 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,1
+1,"Good week, bad week: The people in the news https://t.co/xSqe0vwXlo",Sat Jun 30 23:45:55 +0000 2018,@BBCWorld,"{'neg': 0.243, 'neu': 0.556, 'pos': 0.201, 'compound': -0.1531}",0.201,0.243,0.556,-0.1531,2
+2,A US civility crisis: Total political war https://t.co/h1lotdhPHn,Sat Jun 30 23:27:53 +0000 2018,@BBCWorld,"{'neg': 0.615, 'neu': 0.385, 'pos': 0.0, 'compound': -0.8402}",0.0,0.615,0.385,-0.8402,3
+3,Why female suicide in Afghanistan is so high https://t.co/s7oJdrI5ZL,Sat Jun 30 23:18:10 +0000 2018,@BBCWorld,"{'neg': 0.36, 'neu': 0.64, 'pos': 0.0, 'compound': -0.6705}",0.0,0.36,0.64,-0.6705,4
+4,Trump urges Saudis to raise oil output 'by two million barrels' https://t.co/QCC6WDG1Nd,Sat Jun 30 22:42:38 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,5
+5,"RT @BBCSport: GOAL!
+
+Edinson Cavani nods Uruguay in front!
+
+#URU 1-0 #POR
+
+Live: https://t.co/FvFOt1iOgl
+
+#URUPOR #WorldCup https://t.co/Z2…",Sat Jun 30 18:20:43 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,6
+6,Mary McAleese and her son march in Dublin Pride parade https://t.co/CrYxnfkAFa,Sat Jun 30 17:54:37 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.34}",0.194,0.0,0.806,0.34,7
+7,Billie razors: 'First razor ad with hairy women' wins praise online https://t.co/uZpOeg507H,Sat Jun 30 17:49:46 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.578, 'pos': 0.422, 'compound': 0.8074}",0.422,0.0,0.578,0.8074,8
+8,Unesco announces new heritage sites around the world https://t.co/8UoJausebb,Sat Jun 30 17:15:11 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,9
+9,"RT @BBCSport: ... Argentina are OUT!
+
+FT: #FRA 4-3 #ARG 
+
+Reaction: https://t.co/20OI7OkLoy 
+
+#FRAARG #WorldCup https://t.co/VfNDMc0sys",Sat Jun 30 15:53:40 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,10
+10,"RT @BBCSport: GOAL!
+
+Aguero gives Argentina hope with a header!
+
+#FRA 4-3 #ARG 
+
+Live: https://t.co/20OI7OkLoy 
+
+#FRAARG #WorldCup https://…",Sat Jun 30 15:51:58 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.821, 'pos': 0.179, 'compound': 0.5399}",0.179,0.0,0.821,0.5399,11
+11,"RT @BBCSport: GOAL!
+
+Mbappe again!
+
+He drills in his second and France's fourth! 
+
+#FRA 4-2 #ARG 
+
+Live: https://t.co/20OI7OkLoy 
+
+#FRAARG…",Sat Jun 30 15:28:43 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,12
+12,"RT @BBCSport: GOAL!
+
+And another! Now France are back in front! 
+
+Kylian Mbappe's shot squeezes in!
+
+#FRA 3-2 #ARG 
+
+Live: https://t.co/20O…",Sat Jun 30 15:28:29 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,13
+13,"RT @BBCSport: GOAL!
+
+Technique on that! 
+
+Pavard fires in his first France goal in style!
+
+#FRA 2-2 #ARG 
+
+Live: https://t.co/20OI7OkLoy…",Sat Jun 30 15:16:44 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,14
+14,"RT @BBCSport: GOAL!
+
+There's been a turnaround!
+
+Messi's shot deflects in off Mercado!
+
+#FRA 1-2 #ARG 
+
+Live: https://t.co/20OI7OkLoy 
+
+#FR…",Sat Jun 30 15:13:44 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,15
+15,"RT @BBCSport: GOAL!
+
+What a screamer from Angel Di Maria - he's fired one in from way out!
+
+#FRA 1-1 #ARG 
+
+Live: https://t.co/20OI7OkLoy…",Sat Jun 30 14:44:20 +0000 2018,@BBCWorld,"{'neg': 0.173, 'neu': 0.827, 'pos': 0.0, 'compound': -0.6351}",0.0,0.173,0.827,-0.6351,16
+16,Black US senators introduce anti-lynching bill https://t.co/ewKzAnF7vS,Sat Jun 30 14:35:45 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,17
+17,"RT @BBCSport: GOAL!
+
+Antoine Griezmann slots his penalty right down the middle!
+
+#FRA 1-0 #ARG 
+
+Live: https://t.co/MoPYpFZha8 
+
+#FRAARG #W…",Sat Jun 30 14:14:40 +0000 2018,@BBCWorld,"{'neg': 0.166, 'neu': 0.834, 'pos': 0.0, 'compound': -0.555}",0.0,0.166,0.834,-0.555,18
+18,Belgian boy Laurent Simons heads off to university aged 8 https://t.co/mu8odfEKXL,Sat Jun 30 12:49:05 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,19
+19,Migrant crisis: Italy minister Salvini closes ports to NGO boats https://t.co/jFIpc8JcMj,Sat Jun 30 12:04:21 +0000 2018,@BBCWorld,"{'neg': 0.291, 'neu': 0.709, 'pos': 0.0, 'compound': -0.6249}",0.0,0.291,0.709,-0.6249,20
+20,#Familiesbelongtogether: Thousands to protest over migrant separations https://t.co/Ppi6wsyN15,Sat Jun 30 10:58:58 +0000 2018,@BBCWorld,"{'neg': 0.222, 'neu': 0.778, 'pos': 0.0, 'compound': -0.25}",0.0,0.222,0.778,-0.25,21
+21,"""It's been 50 days since I heard of my son""
+
+Mother describes her ordeal in a Texas migrant detention centre… https://t.co/QAia7M2ggQ",Sat Jun 30 10:57:07 +0000 2018,@BBCWorld,"{'neg': 0.122, 'neu': 0.878, 'pos': 0.0, 'compound': -0.3612}",0.0,0.122,0.878,-0.3612,22
+22,'Mansplaining' advert for University of Adelaide draws criticism https://t.co/IUgOBqkmEP,Sat Jun 30 10:29:27 +0000 2018,@BBCWorld,"{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.4404}",0.0,0.266,0.734,-0.4404,23
+23,First confirmed sighting of a great white shark off Majorca in 40 years https://t.co/bCvlESfylp,Sat Jun 30 09:09:00 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.745, 'pos': 0.255, 'compound': 0.6249}",0.255,0.0,0.745,0.6249,24
+24,Thailand united in prayer as rescuers continue desperate search for 12 teenagers and their football coach trapped i… https://t.co/CuUASfV1Wh,Sat Jun 30 08:58:58 +0000 2018,@BBCWorld,"{'neg': 0.233, 'neu': 0.653, 'pos': 0.114, 'compound': -0.4404}",0.114,0.233,0.653,-0.4404,25
+25,Donald Trump gets prank call on Air Force One https://t.co/oIspu5deoe,Sat Jun 30 07:04:25 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,26
+26,US ambassador to Estonia resigns 'over Trump comments' https://t.co/CwgE9vikJI,Sat Jun 30 03:51:41 +0000 2018,@BBCWorld,"{'neg': 0.223, 'neu': 0.777, 'pos': 0.0, 'compound': -0.3182}",0.0,0.223,0.777,-0.3182,27
+27,Bringing Gay Pride to Africa's last absolute monarchy https://t.co/sAgBRBfNNT,Sat Jun 30 00:41:57 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.34}",0.231,0.0,0.769,0.34,28
+28,Trump to name nominee for Supreme Court on 9 July https://t.co/SBNSb7I9PP,Sat Jun 30 00:05:56 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.5574}",0.286,0.0,0.714,0.5574,29
+29,Little hope ahead of polls in Mexico's Sinaloa state https://t.co/wZXI3u97zP,Fri Jun 29 23:58:03 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.3832}",0.225,0.0,0.775,0.3832,30
+30,"Thai cave rescue: Drones, dogs, drilling and desperation https://t.co/JIDwWzZCnS",Fri Jun 29 23:55:36 +0000 2018,@BBCWorld,"{'neg': 0.226, 'neu': 0.526, 'pos': 0.248, 'compound': 0.0772}",0.248,0.226,0.526,0.0772,31
+31,The young Austrian leader sharing power with the far right https://t.co/iIxMddKz8a,Fri Jun 29 23:50:03 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.4215}",0.219,0.0,0.781,0.4215,32
+32,"DR Congo: Oil drilling allowed in Virguna, Salonga parks https://t.co/5xV23utRMN",Fri Jun 29 23:47:37 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,33
+33,Doug Ford: Brother of notorious Rob Ford takes over Ontario https://t.co/bY7q1E4icV,Fri Jun 29 21:51:12 +0000 2018,@BBCWorld,"{'neg': 0.419, 'neu': 0.581, 'pos': 0.0, 'compound': -0.7579}",0.0,0.419,0.581,-0.7579,34
+34,Unknown 'hero' helps man who fell on Toronto subway tracks https://t.co/9i7nsoss06,Fri Jun 29 19:02:34 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.3818}",0.206,0.0,0.794,0.3818,35
+35,Turkey arrests former opposition MP on terrorism charges https://t.co/z2mv0O5Z1j,Fri Jun 29 18:03:00 +0000 2018,@BBCWorld,"{'neg': 0.615, 'neu': 0.385, 'pos': 0.0, 'compound': -0.8625}",0.0,0.615,0.385,-0.8625,36
+36,Adam Sandler: Wedding Singer turns wedding crasher https://t.co/SxyzrBGiE2,Fri Jun 29 18:00:24 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,37
+37,Capital Gazette shooting: Remembering the victims https://t.co/Kp982XOUju,Fri Jun 29 17:29:58 +0000 2018,@BBCWorld,"{'neg': 0.277, 'neu': 0.723, 'pos': 0.0, 'compound': -0.3182}",0.0,0.277,0.723,-0.3182,38
+38,How fake news fuels Nigeria's herder crisis https://t.co/JEX7i1Bi7N,Fri Jun 29 17:09:45 +0000 2018,@BBCWorld,"{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.802}",0.0,0.545,0.455,-0.802,39
+39,Himmler's daughter worked for post-war German spy agency https://t.co/IIszX8JB3D,Fri Jun 29 16:47:12 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,40
+40,Leo Varadkar rejects 'goods only' Brexit deal https://t.co/AbK90Fmk5Q,Fri Jun 29 16:31:47 +0000 2018,@BBCWorld,"{'neg': 0.314, 'neu': 0.686, 'pos': 0.0, 'compound': -0.4939}",0.0,0.314,0.686,-0.4939,41
+41,Migrant crisis: EU leaders split on new migrant deal https://t.co/eWVMKMmgCY,Fri Jun 29 16:21:11 +0000 2018,@BBCWorld,"{'neg': 0.313, 'neu': 0.687, 'pos': 0.0, 'compound': -0.6249}",0.0,0.313,0.687,-0.6249,42
+42,Newspaper shooting suspect 'barricaded exit' https://t.co/j890i7N381,Fri Jun 29 16:14:48 +0000 2018,@BBCWorld,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",0.0,0.306,0.694,-0.296,43
+43,'Abacha loot' to be given to poor Nigerians https://t.co/bnB8NgJ4Zj,Fri Jun 29 15:44:02 +0000 2018,@BBCWorld,"{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.4767}",0.0,0.279,0.721,-0.4767,44
+44,😞 https://t.co/Og4YuJNhiD,Fri Jun 29 15:05:15 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,45
+45,Ken Isaacs: UN migration agency rejects Trump nominee https://t.co/S0KvvUkv30,Fri Jun 29 14:58:28 +0000 2018,@BBCWorld,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.4939}",0.0,0.286,0.714,-0.4939,46
+46,"Saudi rapper Leesa A celebrates end of country's ban on women driving in music video
+
+https://t.co/TPv1zwlBTN https://t.co/Ws2iM1UsYx",Fri Jun 29 14:52:34 +0000 2018,@BBCWorld,"{'neg': 0.169, 'neu': 0.657, 'pos': 0.174, 'compound': 0.0258}",0.174,0.169,0.657,0.0258,47
+47,What went wrong for Africa at the World Cup? https://t.co/8W3DJbI4vh,Fri Jun 29 14:45:34 +0000 2018,@BBCWorld,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}",0.0,0.256,0.744,-0.4767,48
+48,15 abortions performed in Ireland in 2017 https://t.co/3ySsXXH7iS,Fri Jun 29 14:38:03 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,49
+49,Saudi rapper releases driving music video https://t.co/5kC2XyYptR,Fri Jun 29 13:37:35 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,50
+50,"RT @BBCNews: ""We need quick progress"" on #Brexit @eucopresident says https://t.co/T4ck1V5MXp #eusummit https://t.co/2nhJrRjhCz",Fri Jun 29 13:24:04 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}",0.189,0.0,0.811,0.4215,51
+51,Irish cervical check scandal: Mother settles case for €7.5m https://t.co/KHdHjSdH8p,Fri Jun 29 13:15:48 +0000 2018,@BBCWorld,"{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.4404}",0.0,0.244,0.756,-0.4404,52
+52,Migrant separations: Susan Sarandon arrested at protest rally https://t.co/fX0cdiUrk0,Fri Jun 29 12:40:20 +0000 2018,@BBCWorld,"{'neg': 0.421, 'neu': 0.579, 'pos': 0.0, 'compound': -0.6249}",0.0,0.421,0.579,-0.6249,53
+53,Wisconsin man injured after upskirting shoe camera explodes https://t.co/gKRGbdC4BC,Fri Jun 29 12:27:39 +0000 2018,@BBCWorld,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}",0.0,0.252,0.748,-0.4019,54
+54,European press says migrant deal 'fragile' https://t.co/c0dACB5R9d,Fri Jun 29 12:20:07 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,55
+55,"""It's the right move for him""
+
+David Beckham on @WayneRooney's move to play ⚽ in the US 
+
+https://t.co/gzXWc0wVk3 https://t.co/3Wrgo2tN1d",Fri Jun 29 10:59:57 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.34}",0.124,0.0,0.876,0.34,56
+56,Iraq executes 12 for terrorism after IS captives found dead https://t.co/4ZbBibnBXu,Fri Jun 29 10:56:29 +0000 2018,@BBCWorld,"{'neg': 0.497, 'neu': 0.503, 'pos': 0.0, 'compound': -0.872}",0.0,0.497,0.503,-0.872,57
+57,Europe migrant crisis: Gruelling EU match ends in a draw https://t.co/QpIw4SEOds,Fri Jun 29 10:02:47 +0000 2018,@BBCWorld,"{'neg': 0.313, 'neu': 0.687, 'pos': 0.0, 'compound': -0.6249}",0.0,0.313,0.687,-0.6249,58
+58,"""Unique. Different. Shocking. Ugly. Beautiful?""
+
+@hadjisophia is a model challenging beauty stereotypes… https://t.co/7UkAvss0Bg",Fri Jun 29 09:17:12 +0000 2018,@BBCWorld,"{'neg': 0.309, 'neu': 0.412, 'pos': 0.278, 'compound': -0.1531}",0.278,0.309,0.412,-0.1531,59
+59,RT @BBCNews: 🤣 https://t.co/zZogLw0TYZ,Fri Jun 29 09:01:42 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,60
+60,"""She's speeding and I'm on top of the car"" 😲
+
+https://t.co/xFuC8Z81LJ https://t.co/oEljytQm5s",Fri Jun 29 08:40:39 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.2023}",0.153,0.0,0.847,0.2023,61
+61,RT @bbcworldservice: How a farting unicorn has come between @elonmusk and the artist who painted it. 🦄 📻 https://t.co/at2pyVZn90 https://t.…,Fri Jun 29 07:46:55 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,62
+62,Maryland shooting: Gazette staff publish Friday edition https://t.co/BRHVhJFzuC,Fri Jun 29 07:20:20 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,63
+63,Mexican and South Korean celebrations sourced by racist gestures https://t.co/OgXzhXC8tE,Fri Jun 29 06:19:06 +0000 2018,@BBCWorld,"{'neg': 0.308, 'neu': 0.692, 'pos': 0.0, 'compound': -0.6124}",0.0,0.308,0.692,-0.6124,64
+64,"RT @BBCSport: And here it is, your #WorldCup last-16 draw in full...
+
+30th June: 
+3pm: #FRA v #ARG
+7pm: #URU v #POR 
+
+1st July:
+3pm: #ESP v…",Fri Jun 29 06:13:09 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,65
+65,Migrant crisis: EU summit leaders reach migration deal after marathon talks https://t.co/9PI6CwJPun,Fri Jun 29 04:07:46 +0000 2018,@BBCWorld,"{'neg': 0.27, 'neu': 0.658, 'pos': 0.072, 'compound': -0.6124}",0.072,0.27,0.658,-0.6124,66
+66,'Come home': Thailand clings to hope for boys trapped in cave https://t.co/Om1qk1z5lg,Fri Jun 29 04:00:29 +0000 2018,@BBCWorld,"{'neg': 0.209, 'neu': 0.613, 'pos': 0.178, 'compound': -0.128}",0.178,0.209,0.613,-0.128,67
+67,RT @bbcdavideades: Is this fair play? Japan qualified for the next round of the World Cup because they had fewer yellow cards for foul play…,Fri Jun 29 03:37:54 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.821, 'pos': 0.179, 'compound': 0.6155}",0.179,0.0,0.821,0.6155,68
+68,Nigeria fuel truck blaze kills at least nine https://t.co/znOJyhbIC4,Fri Jun 29 03:06:53 +0000 2018,@BBCWorld,"{'neg': 0.304, 'neu': 0.696, 'pos': 0.0, 'compound': -0.5423}",0.0,0.304,0.696,-0.5423,69
+69,Australia wins landmark case on cigarette plain packaging https://t.co/TeaTcQOh35,Fri Jun 29 01:35:59 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.583, 'pos': 0.417, 'compound': 0.6124}",0.417,0.0,0.583,0.6124,70
+70,'Treated like dogs': Italy's Roma minority on society's fringe https://t.co/vcD57yX2Vt,Fri Jun 29 00:40:19 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}",0.217,0.0,0.783,0.3612,71
+71,"Terrace House: Japan's nice, calm Love Island alternative https://t.co/VbfdD7ncI7",Fri Jun 29 00:27:10 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.392, 'pos': 0.608, 'compound': 0.8519}",0.608,0.0,0.392,0.8519,72
+72,Africa's week in pictures: 22-28 June 2018 https://t.co/jRuGkbD5oP,Fri Jun 29 00:10:52 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,73
+73,Annapolis shooting: How journalists tweeted their ordeal https://t.co/W6ScEGVSB6,Thu Jun 28 22:49:29 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,74
+74,"RT @BBCBreaking: Several people dead in shooting at newspaper building in US city of Annapolis in Maryland, officials confirm https://t.co/…",Thu Jun 28 20:44:06 +0000 2018,@BBCWorld,"{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.6486}",0.0,0.185,0.815,-0.6486,75
+75,"RT @BBCSport: FT: #PAN 1-2 #TUN
+
+33' ⚽ Yassine Meriah (OG)
+51' ⚽ Ben Youssef
+66' ⚽ Khazri
+
+Tunisia come from behind to take third place in…",Thu Jun 28 19:59:36 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,76
+76,"RT @BBCSport: And here it is, your #WorldCup last-16 draw in full...
+
+30th June: 
+3pm: #FRA v #ARG
+7pm: #URU v #POR 
+
+1st July:
+3pm: #ESP v…",Thu Jun 28 19:50:59 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,77
+77,"RT @BBCSport: FT: #ENG 0-1 #BEL 
+
+Adnan Januzaj's goal means England finish second in the group.
+
+Reaction: https://t.co/2nqcGRunPa 
+
+#Worl…",Thu Jun 28 19:50:37 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,78
+78,Police confirm 'shooting incident' at Maryland newspaper office https://t.co/Q1EiArPbPP,Thu Jun 28 19:43:43 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,79
+79,Women fear abortion rights under threat https://t.co/t1YfZwmiE7,Thu Jun 28 18:57:43 +0000 2018,@BBCWorld,"{'neg': 0.569, 'neu': 0.431, 'pos': 0.0, 'compound': -0.765}",0.0,0.569,0.431,-0.765,80
+80,Charlottesville car attack suspect charged with hate crime https://t.co/ROd3zhcLnL,Thu Jun 28 16:42:58 +0000 2018,@BBCWorld,"{'neg': 0.781, 'neu': 0.219, 'pos': 0.0, 'compound': -0.9231}",0.0,0.781,0.219,-0.9231,81
+81,In pictures: Despair as Senegal crash out of World Cup https://t.co/ckvsnJJHL9,Thu Jun 28 16:21:29 +0000 2018,@BBCWorld,"{'neg': 0.357, 'neu': 0.643, 'pos': 0.0, 'compound': -0.6124}",0.0,0.357,0.643,-0.6124,82
+82,Reality Check: Which countries have military service? https://t.co/wcT7v2ZI0q,Thu Jun 28 16:06:48 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,83
+83,"RT @BBCAfrica: For months now, horrific images have been pouring out of Cameroon on social media. Killings. Torture. Villages on fire.
+
+#BB…",Thu Jun 28 16:03:03 +0000 2018,@BBCWorld,"{'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.9451}",0.0,0.458,0.542,-0.9451,84
+84,"RT @BBCAfrica: FT  #SEN 0-1 #COL
+
+Heartbreak for Africa :( 
+
+The continent's last hope is out of the #WorldCup
+
+https://t.co/GGv9T2q7zj
+
+#B…",Thu Jun 28 15:56:37 +0000 2018,@BBCWorld,"{'neg': 0.24, 'neu': 0.655, 'pos': 0.105, 'compound': -0.5719}",0.105,0.24,0.655,-0.5719,85
+85,"RT @BBC_HaveYourSay: 🦄☕️🚗🌈🤔
+https://t.co/RfEUfsup7c",Thu Jun 28 15:26:28 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,86
+86,"RT @BBCSport: GOAL!
+
+Jan Bednarek slots in the opener and suddenly, as it stands, Japan are going out! 
+
+#JPN 0-1 #POL 
+
+Live: https://t.co…",Thu Jun 28 15:23:00 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,87
+87,Banning the Uluru climb: 'This rock means everything to us' https://t.co/pg9bZZ4Tch,Thu Jun 28 15:16:20 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,88
+88,"RT @BBCSport: HT: #SEN 0-0 #COL 
+
+No goals yet with Davinson Sanchez's tackle on Sadio Mane inside the penalty area the main talking point…",Thu Jun 28 14:49:50 +0000 2018,@BBCWorld,"{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.6369}",0.0,0.191,0.809,-0.6369,89
+89,"RT @BBCSport: HT: #JPN 0-0 #POL 
+
+Poland came closest with a header - other than that, not much has happened, which suits Japan for now!
+
+L…",Thu Jun 28 14:48:42 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,90
+90,"RT @BBCNews: Belgium PM @CharlesMichel presents UK PM @theresa_may with Belgian football shirt ahead of #ENGBEL #WorldCup 
+
+https://t.co/cn…",Thu Jun 28 14:18:11 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,91
+91,Syria war: Air strike on Deraa shelter kills 17 civilians https://t.co/9rygwWkJis,Thu Jun 28 14:07:47 +0000 2018,@BBCWorld,"{'neg': 0.527, 'neu': 0.473, 'pos': 0.0, 'compound': -0.836}",0.0,0.527,0.473,-0.836,92
+92,Farmer finds prehistoric gold artefacts in Donegal. https://t.co/Ws3NMT0eOA,Thu Jun 28 14:02:58 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,93
+93,"RT @BBCSport: #JPNPOL is underway! ⚽
+
+The pressure is off Poland, so will they finish with a flourish?
+
+Or will Japan hold onto top spot?…",Thu Jun 28 14:02:47 +0000 2018,@BBCWorld,"{'neg': 0.111, 'neu': 0.819, 'pos': 0.07, 'compound': -0.2621}",0.07,0.111,0.819,-0.2621,94
+94,"RT @BBCSport: KICK-OFF!
+
+#SEN v #COL is underway with both teams potential opponents for #ENG in the last-16 of the #WorldCup
+
+Follow the a…",Thu Jun 28 14:02:23 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,95
+95,RT @BBCNews: ⚽ #ENGBEL https://t.co/vDqRXYrpYT,Thu Jun 28 14:01:51 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,96
+96,Irish PM will not prepare for hard border ahead of Brexit https://t.co/2zQipHAHFr,Thu Jun 28 13:55:13 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.895, 'pos': 0.105, 'compound': 0.0762}",0.105,0.0,0.895,0.0762,97
+97,"""I want to see myself among the great artists in museums""
+
+The 10-year-old inspired by Michelangelo and Arinze Stan… https://t.co/MeI3Ch7XSE",Thu Jun 28 13:49:04 +0000 2018,@BBCWorld,"{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.8225}",0.336,0.0,0.664,0.8225,98
+98,China caps film stars' pay over 'money worship and tax evasion' https://t.co/rTMRIx7Xta,Thu Jun 28 13:34:46 +0000 2018,@BBCWorld,"{'neg': 0.103, 'neu': 0.735, 'pos': 0.162, 'compound': 0.2023}",0.162,0.103,0.735,0.2023,99
+99,Shujhaat Bukhari: Pakistan militants blamed for journalist death https://t.co/3VJhJVqbC0,Thu Jun 28 13:24:45 +0000 2018,@BBCWorld,"{'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.7906}",0.0,0.5,0.5,-0.7906,100
+0,12-year-old gets more business cutting lawns after neighbor calls police on him https://t.co/QVLb9nlvpk https://t.co/3peag1nxvi,Sun Jul 01 03:03:08 +0000 2018,@CBSNews,"{'neg': 0.12, 'neu': 0.88, 'pos': 0.0, 'compound': -0.197}",0.0,0.12,0.88,-0.197,1
+1,Alexandria Ocasio-Cortez name-dropped her lipstick brand and it sold out https://t.co/60DcGVVE9c https://t.co/9fjCA8IZwK,Sun Jul 01 02:48:07 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,2
+2,"Woman dubbed ""Pool Patrol Paula"" charged with assaulting black teen at swimming pool https://t.co/cw9KyXs8NI https://t.co/5BJ70L3kAE",Sun Jul 01 02:33:03 +0000 2018,@CBSNews,"{'neg': 0.282, 'neu': 0.718, 'pos': 0.0, 'compound': -0.6249}",0.0,0.282,0.718,-0.6249,3
+3,Canada announces details of tariffs on U.S. goods https://t.co/R5aAaXaSa3 https://t.co/a4tXwjxVvQ,Sun Jul 01 02:18:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,4
+4,Spring Fire in Colorado prompts thousands of evacuations https://t.co/Rm82ObjYY9 https://t.co/0wJq31xITP,Sun Jul 01 02:03:03 +0000 2018,@CBSNews,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.34}",0.0,0.211,0.789,-0.34,5
+5,"Photo of Geoffrey the Giraffe leaving an empty Toys ""R"" Us store goes viral https://t.co/a61ly31wpv https://t.co/bgH1Nh3ntU",Sun Jul 01 01:48:07 +0000 2018,@CBSNews,"{'neg': 0.107, 'neu': 0.893, 'pos': 0.0, 'compound': -0.2023}",0.0,0.107,0.893,-0.2023,6
+6,Alabama Attorney General Steve Marshall recalls final call with wife before her suicide https://t.co/zKRhZlye41 https://t.co/4CkmAg9ZwR,Sun Jul 01 01:33:03 +0000 2018,@CBSNews,"{'neg': 0.243, 'neu': 0.757, 'pos': 0.0, 'compound': -0.6705}",0.0,0.243,0.757,-0.6705,7
+7,Jazz Jennings says she’s doing great after gender confirmation surgery https://t.co/B8hQG0AnvQ https://t.co/LrlHJqk04S,Sun Jul 01 01:18:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.728, 'pos': 0.272, 'compound': 0.6249}",0.272,0.0,0.728,0.6249,8
+8,Video captures officers using stun gun on sitting man https://t.co/VrRDdzNTPz https://t.co/KvSWmNTn7m,Sun Jul 01 01:03:06 +0000 2018,@CBSNews,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}",0.0,0.194,0.806,-0.34,9
+9,"Alexandria Ocasio-Cortez explains democratic socialism on the ""Late Show"" https://t.co/qYZefMpxJy https://t.co/vKsyraaQt3",Sun Jul 01 00:48:07 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,10
+10,Ex-ICE chief counsel sentenced for stealing undocumented immigrants' identities https://t.co/tTXRkdPTxL https://t.co/3DjWL3cNun,Sun Jul 01 00:33:03 +0000 2018,@CBSNews,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.5859}",0.0,0.348,0.652,-0.5859,11
+11,"Anonymous person buys $1M worth of remaining toys at Toys ""R"" Us to donate https://t.co/vIBQW2iUWN https://t.co/KN1qUTWHNl",Sun Jul 01 00:18:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.2263}",0.112,0.0,0.888,0.2263,12
+12,New chance at love for woman who woke up from coma to find she has second husband https://t.co/VzZ5FTQ7Tk https://t.co/9p6VEOVENq,Sun Jul 01 00:03:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.7351}",0.267,0.0,0.733,0.7351,13
+13,Susan Sarandon arrested at anti-Trump rally https://t.co/ouVzpoY9XI https://t.co/0vXtqv7LrF,Sat Jun 30 23:48:03 +0000 2018,@CBSNews,"{'neg': 0.307, 'neu': 0.693, 'pos': 0.0, 'compound': -0.4767}",0.0,0.307,0.693,-0.4767,14
+14,Heinrich Himmler's daughter worked for German spy agency in 1960s https://t.co/bIkNsvXDZ2 https://t.co/Qha7InhsSb,Sat Jun 30 23:33:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,15
+15,"Comedian claims he prank called President Trump, posing as Sen. Bob Menendez https://t.co/yColMXZaLN https://t.co/G1CBq7DN0G",Sat Jun 30 23:18:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.3818}",0.167,0.0,0.833,0.3818,16
+16,Remains found in Arizona ID'd as long-missing woman Jamie Laiaddee https://t.co/VOo8Iq12N2 https://t.co/pVvE92JTy1,Sat Jun 30 23:03:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,17
+17,"The specter of possible fraud rears its head in Mexico each electoral campaign. Such fears have a basis, with a his… https://t.co/RHs34lybAO",Sat Jun 30 22:39:34 +0000 2018,@CBSNews,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.765}",0.0,0.268,0.732,-0.765,18
+18,Is Chief Justice John Roberts is the Supreme Court's new man in the middle? https://t.co/5N3n0dPoIk https://t.co/oEPAldKzjn,Sat Jun 30 22:19:42 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.7906}",0.333,0.0,0.667,0.7906,19
+19,"Spain will beat Russia in Sunday's World Cup match -- that is if you believe Harry the ""oracle"" otter.… https://t.co/TkPy20SNIU",Sat Jun 30 22:00:26 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,20
+20,"RT @48hours: Who was Will Carter Jr. and why was he shot to death? 
+
+#48hours airs tonight at 10/9c. https://t.co/dOLUeS0RD5 https://t.co/7…",Sat Jun 30 21:45:23 +0000 2018,@CBSNews,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.5994}",0.0,0.163,0.837,-0.5994,21
+21,Would you get behind the wheel if you were staring down an AK-47? This Texas company can help give you the confiden… https://t.co/k9ooMxbAT4,Sat Jun 30 21:20:06 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.891, 'pos': 0.109, 'compound': 0.4019}",0.109,0.0,0.891,0.4019,22
+22,"John Whitbeck, the chairman of the Republican Party of Virginia, is resigning after more than three years in his po… https://t.co/z5TULQsc9w",Sat Jun 30 21:00:02 +0000 2018,@CBSNews,"{'neg': 0.081, 'neu': 0.805, 'pos': 0.114, 'compound': 0.2023}",0.114,0.081,0.805,0.2023,23
+23,President Trump says he has received assurances from King Salman of Saudi Arabia that the kingdom will increase oil… https://t.co/4nRNlVp4HK,Sat Jun 30 20:40:01 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.5719}",0.207,0.0,0.793,0.5719,24
+24,"His work with Pavement is considered some of the most influential music of the 90's. Now, Stephen Malkmus has a pec… https://t.co/mp4N94yTht",Sat Jun 30 20:19:34 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4927}",0.138,0.0,0.862,0.4927,25
+25,Arnold Schwarzenegger's response to being called a snowflake was too chill  https://t.co/bafRFtHLyO https://t.co/soR3PWu7np,Sat Jun 30 19:59:53 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,26
+26,"President Trump said he hopes that Democrats who are calling to abolish ICE ""keep thinking about it"" because ""they'… https://t.co/fDMKfVLO1U",Sat Jun 30 19:39:42 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.4215}",0.128,0.0,0.872,0.4215,27
+27,"From New York to L.A., hundreds of thousands took to the streets as part of the #FamiliesBelongTogetherMarch to pro… https://t.co/Ygdvz5ZHcD",Sat Jun 30 19:20:20 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,28
+28,"When he lost his leg in combat, U.S. Army Specialist Anthony Farve didn't know if he'd ever be part of a team again… https://t.co/xb2jOTEHs8",Sat Jun 30 18:59:51 +0000 2018,@CBSNews,"{'neg': 0.183, 'neu': 0.817, 'pos': 0.0, 'compound': -0.5719}",0.0,0.183,0.817,-0.5719,29
+29,Their numbers dropped from almost 600 in 1997 to just 30 today. Marine biologists and conservationists are scrambli… https://t.co/vVpChuFzII,Sat Jun 30 18:39:51 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,30
+30,"On Sunday, Massachusetts will become the first East Coast state to allow the sale of recreational marijuana… https://t.co/TExVyPsRrz",Sat Jun 30 18:19:47 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.2263}",0.101,0.0,0.899,0.2263,31
+31,"The U.S. Department of Education estimates at least 32,000 college students were homeless in 2017… https://t.co/cjcoyiAo5H",Sat Jun 30 18:00:01 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,32
+32,"WATCH: Lin-Manuel Miranda performs at the ""Families Belong Together"" immigration march in Washington, D.C.… https://t.co/fVHzhBt0kB",Sat Jun 30 17:49:42 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,33
+33,"An orphaned bear cub burned in a Colorado wildfire is being nursed back to health, and is expected to be reintroduc… https://t.co/N5JPkIWwAf",Sat Jun 30 17:19:31 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,34
+34,"""Once my family was taken, I became fully aware that my community matters less to some people. That we are treated… https://t.co/A3pZe1cDQT",Sat Jun 30 17:09:13 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.948, 'pos': 0.052, 'compound': 0.0258}",0.052,0.0,0.948,0.0258,35
+35,"""I am here today as a woman who as a young child was separated from her family. I am here today to be painfully hon… https://t.co/DHrobAEA8d",Sat Jun 30 17:07:23 +0000 2018,@CBSNews,"{'neg': 0.134, 'neu': 0.866, 'pos': 0.0, 'compound': -0.5267}",0.0,0.134,0.866,-0.5267,36
+36,Many anti-Trump activists are driving the hashtag #abolishICE on Twitter— now potential Democratic contenders in 20… https://t.co/e1o2Fv695g,Sat Jun 30 16:59:46 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,37
+37,"""I live with the constant fear of losing my mom to deportation. My mom is strong, beautiful and brave. She is also… https://t.co/RUg3b7oEb4",Sat Jun 30 16:55:27 +0000 2018,@CBSNews,"{'neg': 0.169, 'neu': 0.523, 'pos': 0.308, 'compound': 0.7003}",0.308,0.169,0.523,0.7003,38
+38,"Leah, a 12-year-old girl from Miami, addresses D.C. crowd: ""I don't understand why they are being so mean to us chi… https://t.co/YWdJs8jyRN",Sat Jun 30 16:53:45 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,39
+39,"""Our government also continues to separate U.S. citizen children like me from their parents every day. This is evil… https://t.co/jNcHuQob2l",Sat Jun 30 16:51:53 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}",0.116,0.0,0.884,0.3612,40
+40,"Syrian-American woman tells crowd in Washington, D.C.: ""For those of you who are lucky enough to not have been targ… https://t.co/2AsfGqFjfE",Sat Jun 30 16:40:52 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.4215}",0.123,0.0,0.877,0.4215,41
+41,"Toys ""R"" Us' Geoffrey the Giraffe might become the mascot of his species' preservation https://t.co/Em2Bw2wDJT… https://t.co/oD3tgXomna",Sat Jun 30 16:40:07 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,42
+42,"Syrian-American woman describes the effect of Trump administration's travel ban on her family: ""For me this policy… https://t.co/5OwYWFWPLc",Sat Jun 30 16:38:21 +0000 2018,@CBSNews,"{'neg': 0.175, 'neu': 0.825, 'pos': 0.0, 'compound': -0.5574}",0.0,0.175,0.825,-0.5574,43
+43,"""All of these children today separated from their parents have lost the opportunity to learn trust or ever feel saf… https://t.co/2NBprG5nDa",Sat Jun 30 16:24:50 +0000 2018,@CBSNews,"{'neg': 0.087, 'neu': 0.682, 'pos': 0.231, 'compound': 0.5859}",0.231,0.087,0.682,0.5859,44
+44,"Actress America Ferrera reads a letter from a grandfather fighting to sponsor his granddaughter: ""I want you to ima… https://t.co/mdtrskzKHV",Sat Jun 30 16:08:17 +0000 2018,@CBSNews,"{'neg': 0.126, 'neu': 0.808, 'pos': 0.066, 'compound': -0.296}",0.066,0.126,0.808,-0.296,45
+45,WATCH LIVE:  Protesters are gathering in hundreds of cities in all 50 states and Puerto Rico to protest the Trump a… https://t.co/Yo1UHlikSL,Sat Jun 30 16:03:13 +0000 2018,@CBSNews,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.4404}",0.0,0.163,0.837,-0.4404,46
+46,WATCH: Maryland's capital lit up Friday night as hundreds clutched candles and marched silently to honor the five p… https://t.co/7mKNMjykMd,Sat Jun 30 16:00:24 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4939}",0.144,0.0,0.856,0.4939,47
+47,Is Chief Justice John Roberts is the Supreme Court's new man in the middle? https://t.co/IjoV7BoTO4 https://t.co/2cN6sbzIjo,Sat Jun 30 15:40:07 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.7906}",0.333,0.0,0.667,0.7906,48
+48,WATCH LIVE: Protesters are hitting the streets across the U.S. for the #FamiliesBelongTogetherMarch to press Presid… https://t.co/R3HdpXhrI4,Sat Jun 30 15:20:34 +0000 2018,@CBSNews,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.2263}",0.0,0.106,0.894,-0.2263,49
+49,"President Trump claims Saudi Arabia agreed to increase oil production:
+https://t.co/h6PaCUR4ZO https://t.co/JZjcAWfsGB",Sat Jun 30 15:20:18 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.5267}",0.306,0.0,0.694,0.5267,50
+50,"He lost his right leg to an IED in Iraq. Then, wheelchair basketball made him feel like an American warrior again.… https://t.co/FGIseYRcGz",Sat Jun 30 15:00:42 +0000 2018,@CBSNews,"{'neg': 0.093, 'neu': 0.806, 'pos': 0.101, 'compound': 0.0516}",0.101,0.093,0.806,0.0516,51
+51,"A Hello Kitty-themed ""shinkansen"" bullet train has debuted in Japan: https://t.co/8CXC0EGH13 https://t.co/O4dx9lbqCS",Sat Jun 30 14:39:49 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,52
+52,"The NSA is deleting more than 685 million call records the government obtained since 2015, and it's raising questio… https://t.co/ToNW6AWbMy",Sat Jun 30 14:19:33 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,53
+53,"Quietly clutching candles or hoisting #AnnapolisStrong signs, more than 1,000 people streamed through Maryland's ca… https://t.co/DXDzuvx2Uk",Sat Jun 30 14:00:02 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,54
+54,Two American testing labs are under scrutiny due to faulty cancer tests overseas. Hundreds of women received a clea… https://t.co/6IbZ9ckCfI,Sat Jun 30 13:40:01 +0000 2018,@CBSNews,"{'neg': 0.283, 'neu': 0.717, 'pos': 0.0, 'compound': -0.7717}",0.0,0.283,0.717,-0.7717,55
+55,"Liberal activists, parents and first-time protesters motivated by accounts of children separated from their parents… https://t.co/0YHI34fxJ0",Sat Jun 30 13:20:42 +0000 2018,@CBSNews,"{'neg': 0.101, 'neu': 0.741, 'pos': 0.159, 'compound': 0.2732}",0.159,0.101,0.741,0.2732,56
+56,Cold case church murder suspect kills self as police serve warrant https://t.co/udX0Ozw8x0 https://t.co/EnafJVpt4p,Sat Jun 30 13:03:05 +0000 2018,@CBSNews,"{'neg': 0.51, 'neu': 0.49, 'pos': 0.0, 'compound': -0.886}",0.0,0.51,0.49,-0.886,57
+57,Video captures officers using stun gun on sitting man https://t.co/fPQeOsJcbG https://t.co/9nUivzKvHa,Sat Jun 30 12:48:03 +0000 2018,@CBSNews,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}",0.0,0.194,0.806,-0.34,58
+58,"Drake reveals he has a son in newest album ""Scorpion"" https://t.co/wX1gYsHETL https://t.co/16okV6AMAb",Sat Jun 30 12:33:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,59
+59,"Obama to Democrats: ""Do not wait for the perfect message"" or ""tingle in your spine"" to vote https://t.co/PMAXTsi04q https://t.co/VcqM5Epm5I",Sat Jun 30 12:18:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.829, 'pos': 0.171, 'compound': 0.5719}",0.171,0.0,0.829,0.5719,60
+60,Big U.S. pork producers accused of price-fixing https://t.co/EkkWowAJYx https://t.co/JLSxk0YwJe,Sat Jun 30 12:03:04 +0000 2018,@CBSNews,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",0.0,0.216,0.784,-0.296,61
+61,CDC retracts widely cited study on farmer suicide rates https://t.co/iFkQsA0KTn https://t.co/2RVxMaKUgO,Sat Jun 30 11:48:04 +0000 2018,@CBSNews,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.6705}",0.0,0.31,0.69,-0.6705,62
+62,"RT @CBSThisMorning: Over the next 5 days, two-thirds of the country will be dealing with temperatures 10 to 20 degrees above averages. Peop…",Sat Jun 30 11:38:19 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,63
+63,CDC warns of shingles vaccine shortage https://t.co/kM4L24F3sZ https://t.co/yB6FRHLrqA,Sat Jun 30 11:33:04 +0000 2018,@CBSNews,"{'neg': 0.362, 'neu': 0.638, 'pos': 0.0, 'compound': -0.34}",0.0,0.362,0.638,-0.34,64
+64,"Supreme Court could limit, but not eliminate, abortion rights https://t.co/krJh7liVNc https://t.co/Md6xINnZXv",Sat Jun 30 11:18:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}",0.187,0.0,0.813,0.3182,65
+65,Where the gender pay gap may start: At home https://t.co/DwYnn6TDvr https://t.co/B8neb1tpoy,Sat Jun 30 11:03:04 +0000 2018,@CBSNews,"{'neg': 0.123, 'neu': 0.877, 'pos': 0.0, 'compound': -0.1027}",0.0,0.123,0.877,-0.1027,66
+66,Fed says no to Goldman and Morgan Stanley dividend hikes https://t.co/th7q5C6lD1 https://t.co/rgUD3VJfvE,Sat Jun 30 10:48:04 +0000 2018,@CBSNews,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",0.0,0.167,0.833,-0.296,67
+67,"Comcast outage affecting business, residential customers https://t.co/2dCgqz0Zbp https://t.co/uSm7JRRhs5",Sat Jun 30 10:33:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,68
+68,Dangerous heat wave hitting U.S. over Fourth of July weekend https://t.co/hfew50pO7H https://t.co/g4bFN5NElg,Sat Jun 30 10:18:04 +0000 2018,@CBSNews,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}",0.0,0.22,0.78,-0.4767,69
+69,"Larry Nassar, former trainer charged in connection to Karolyi Ranch investigation https://t.co/176bI9faDw https://t.co/h1NcptA4ek",Sat Jun 30 10:03:05 +0000 2018,@CBSNews,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.2023}",0.0,0.13,0.87,-0.2023,70
+70,Trump plans to announce Supreme Court pick July 9 https://t.co/2jepViI83U https://t.co/Kf79BOOhrV,Sat Jun 30 09:48:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.5574}",0.286,0.0,0.714,0.5574,71
+71,Alabama Attorney General Steve Marshall recalls final call with wife before her suicide https://t.co/zKRhZlye41 https://t.co/1vGs6DEP4V,Sat Jun 30 09:33:04 +0000 2018,@CBSNews,"{'neg': 0.243, 'neu': 0.757, 'pos': 0.0, 'compound': -0.6705}",0.0,0.243,0.757,-0.6705,72
+72,"Fourth of July is not just a celebration, but an assignment https://t.co/xBcUNZsAIZ https://t.co/WDV0B60WIl",Sat Jun 30 09:18:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,73
+73,State Dept trafficking report includes ill effects of family separation https://t.co/JZWDyxy8ET https://t.co/dAK2WeM1GN,Sat Jun 30 09:03:06 +0000 2018,@CBSNews,"{'neg': 0.203, 'neu': 0.797, 'pos': 0.0, 'compound': -0.4215}",0.0,0.203,0.797,-0.4215,74
+74,Ex-employee sheds light on life inside facilities for immigrant children separated from parents… https://t.co/BqbQAH09y1,Sat Jun 30 08:48:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,75
+75,Ex-ICE chief counsel sentenced for stealing undocumented immigrants' identities https://t.co/jg1hZw95Nr https://t.co/JDBT90vmNz,Sat Jun 30 08:33:03 +0000 2018,@CBSNews,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.5859}",0.0,0.348,0.652,-0.5859,76
+76,Police probe whether campsite death is linked to a string of unsolved shootings https://t.co/ay06CRw24h https://t.co/RTMvhKiKkd,Sat Jun 30 08:18:02 +0000 2018,@CBSNews,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5994}",0.0,0.231,0.769,-0.5994,77
+77,"President Trump's top economic adviser says the deficit is ""coming down,"" but the government disagrees… https://t.co/rlkNVyUj6e",Sat Jun 30 08:03:03 +0000 2018,@CBSNews,"{'neg': 0.107, 'neu': 0.812, 'pos': 0.081, 'compound': -0.1154}",0.081,0.107,0.812,-0.1154,78
+78,"""Speechless"": Capital Gazette opinion page left blank after deadly shooting https://t.co/hPOOpMcW9G https://t.co/aVDUwrvY1P",Sat Jun 30 07:48:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,79
+79,Video captures officers using stun gun on sitting man https://t.co/IVoH6YjYuE https://t.co/B7j5sc3xfi,Sat Jun 30 07:33:03 +0000 2018,@CBSNews,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}",0.0,0.194,0.806,-0.34,80
+80,"Jahi McMath, girl at center of debate over brain death, dies, mother says https://t.co/8KgSF4sSgF https://t.co/KAvIk9mOoo",Sat Jun 30 07:18:04 +0000 2018,@CBSNews,"{'neg': 0.218, 'neu': 0.782, 'pos': 0.0, 'compound': -0.5994}",0.0,0.218,0.782,-0.5994,81
+81,Susan Sarandon arrested at anti-Trump rally https://t.co/wRiuQ04QAi https://t.co/k9tH1UTSL4,Sat Jun 30 07:03:04 +0000 2018,@CBSNews,"{'neg': 0.307, 'neu': 0.693, 'pos': 0.0, 'compound': -0.4767}",0.0,0.307,0.693,-0.4767,82
+82,Annapolis shooting: Prosecutor says suspect barricaded back door at newspaper offices https://t.co/BgIMjFgHAd https://t.co/9tyamcng3d,Sat Jun 30 06:48:03 +0000 2018,@CBSNews,"{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.296}",0.0,0.155,0.845,-0.296,83
+83,"Alexandria Ocasio-Cortez explains democratic socialism on the ""Late Show"" https://t.co/4meO6EjcbJ https://t.co/ObjyMg3ZrC",Sat Jun 30 06:33:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,84
+84,"Sen. Jeff Merkley suggests Supreme Court nominee could ""lock in an anti-American majority"" https://t.co/SZu7rJupPV https://t.co/T9L71oHgLR",Sat Jun 30 06:18:03 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.5574}",0.205,0.0,0.795,0.5574,85
+85,Alabama woman has 50-pound cyst removed from her ovary https://t.co/FS6hW9okjx https://t.co/wDF04v4RyN,Sat Jun 30 06:03:06 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,86
+86,Some questions in Trump-Russia dossier now finding answers https://t.co/g0bIUlUKL4 https://t.co/pxWbS7ztNf,Sat Jun 30 05:48:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,87
+87,Spring Fire in Colorado prompts thousands of evacuations https://t.co/9tZrxKvQlC https://t.co/1d3OgiGNHU,Sat Jun 30 05:33:11 +0000 2018,@CBSNews,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.34}",0.0,0.211,0.789,-0.34,88
+88,"President Trump says the Capital Gazette shooting ""shocked the conscience of our nation"" https://t.co/VmCOWAthyk https://t.co/7qhC7u5Gpi",Sat Jun 30 05:18:04 +0000 2018,@CBSNews,"{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.3182}",0.0,0.141,0.859,-0.3182,89
+89,Trump auto tariffs may cost hundreds of thousands of U.S. jobs https://t.co/5NYczn4txY https://t.co/OsE2JiqBAe,Sat Jun 30 05:03:05 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,90
+90,"Commentary: When Dems freak out over SCOTUS, Republicans will benefit https://t.co/NqoLIKheN1 https://t.co/yDGojmthLu",Sat Jun 30 04:48:03 +0000 2018,@CBSNews,"{'neg': 0.182, 'neu': 0.629, 'pos': 0.189, 'compound': 0.0258}",0.189,0.182,0.629,0.0258,91
+91,"Comcast outage affecting business, residential customers https://t.co/MIJkoHRdcS https://t.co/U4kjxk5Tey",Sat Jun 30 04:33:04 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,92
+92,Alabama Attorney General Steve Marshall recalls final call with wife before her suicide https://t.co/zKRhZlye41 https://t.co/qALN4vUcp5,Sat Jun 30 04:18:03 +0000 2018,@CBSNews,"{'neg': 0.243, 'neu': 0.757, 'pos': 0.0, 'compound': -0.6705}",0.0,0.243,0.757,-0.6705,93
+93,Alexandria Ocasio-Cortez name-dropped her lipstick brand and it sold out https://t.co/60DcGVVE9c https://t.co/FmVf39RGCx,Sat Jun 30 04:03:08 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,94
+94,Thai prime minister tells families of soccer team missing in cave to have faith https://t.co/b0UxiwiJSC https://t.co/QFgyO4nMO9,Sat Jun 30 03:48:03 +0000 2018,@CBSNews,"{'neg': 0.116, 'neu': 0.737, 'pos': 0.147, 'compound': 0.1531}",0.147,0.116,0.737,0.1531,95
+95,Ex-ICE chief counsel sentenced for stealing undocumented immigrants' identities https://t.co/QknyCkE0Df https://t.co/27FbRIdrFo,Sat Jun 30 03:33:03 +0000 2018,@CBSNews,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.5859}",0.0,0.348,0.652,-0.5859,96
+96,"Annapolis shooting suspect ""wanted to get revenge,"" lawyer for harassed woman says https://t.co/pTjjba1P2i https://t.co/Xm5pBg9r3Q",Sat Jun 30 03:18:03 +0000 2018,@CBSNews,"{'neg': 0.322, 'neu': 0.678, 'pos': 0.0, 'compound': -0.6908}",0.0,0.322,0.678,-0.6908,97
+97,Video captures officers using stun gun on sitting man https://t.co/kfD6mFD8SP https://t.co/hYKuvMEE5d,Sat Jun 30 03:03:04 +0000 2018,@CBSNews,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}",0.0,0.194,0.806,-0.34,98
+98,"""I've been ready for this my entire life"": Jazz Jennings is doing well after her gender confirmation surgery… https://t.co/iJVh7epq3C",Sat Jun 30 02:39:51 +0000 2018,@CBSNews,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.5574}",0.213,0.0,0.787,0.5574,99
+99,"Medical marijuana users can't legally own guns, federal officials say https://t.co/0szHNNPsIg https://t.co/YaEo2KrKU6",Sat Jun 30 02:20:01 +0000 2018,@CBSNews,"{'neg': 0.105, 'neu': 0.895, 'pos': 0.0, 'compound': -0.0762}",0.0,0.105,0.895,-0.0762,100
+0,"For years, the call to eliminate the immigration enforcement agency was a progressive fringe cause. Now, the demand… https://t.co/GXgeyxMOqQ",Sun Jul 01 03:00:10 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,1
+1,President Trump asks Saudi Arabia to increase oil production https://t.co/XAUb7N8xSt https://t.co/SuHQLeAsQg,Sun Jul 01 02:30:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}",0.187,0.0,0.813,0.3182,2
+2,Kylian Mbappe scores twice as France knocks Lionel Messi's Argentina out of World Cup https://t.co/kAfBFc49vh https://t.co/755pskebWq,Sun Jul 01 02:00:14 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,3
+3,Here's what you might have missed during a busy news week https://t.co/OGcTo8OLmw https://t.co/BpH2reJgeb,Sun Jul 01 01:30:13 +0000 2018,@CNN,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",0.0,0.167,0.833,-0.296,4
+4,The bitter irony of the travel ban ruling https://t.co/Xg7ZvlVsuT (via @CNNOpinion) https://t.co/bS3uOiu0UG,Sun Jul 01 01:00:06 +0000 2018,@CNN,"{'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.765}",0.0,0.458,0.542,-0.765,5
+5,Here are the best places to visit in July https://t.co/gvx6NKMhV1 https://t.co/gIYURHzZVp,Sun Jul 01 00:30:08 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.6369}",0.296,0.0,0.704,0.6369,6
+6,Sen. Tim Scott says he plans to recommend Rep. Trey Gowdy for Supreme Court https://t.co/xpTV3bzfxk https://t.co/7R6JSCtnEA,Sun Jul 01 00:00:09 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.697, 'pos': 0.303, 'compound': 0.7269}",0.303,0.0,0.697,0.7269,7
+7,Cristiano Ronaldo's World Cup ends as Uruguay beats Portugal https://t.co/Qr8KoVuZna https://t.co/wYiuOf1cGz,Sat Jun 30 23:30:06 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,8
+8,"Sen. Tim Scott calls race discussion with President Trump ""painful,"" ""uncomfortable,"" but ""hopeful""… https://t.co/QGpahVAmJV",Sat Jun 30 23:00:04 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,9
+9,Americans' changing drinking habits have been taking shape for years and the 4 major US beer brands have been hit p… https://t.co/5I9v10nf3G,Sat Jun 30 22:30:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,10
+10,Former pro wrestler Matt Cappotelli dies at 38 after battle with brain cancer https://t.co/puBeEGhxEc https://t.co/iSLHd4UoAK,Sat Jun 30 22:00:09 +0000 2018,@CNN,"{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.7906}",0.0,0.35,0.65,-0.7906,11
+11,"President Trump claims he never pressured House GOP on immigration bill, despite tweeting otherwise… https://t.co/LNfXlbBGUj",Sat Jun 30 21:40:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.1695}",0.106,0.0,0.894,0.1695,12
+12,"Singer John Legend urges protesters to resist ""temptation to just disengage"" at immigration rally in Los Angeles… https://t.co/MvDrECFilN",Sat Jun 30 21:35:06 +0000 2018,@CNN,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2263}",0.0,0.101,0.899,-0.2263,13
+13,Rep. Maxine Waters scolds President Trump at immigration rally in Los Angeles https://t.co/Fp1QteDj3t https://t.co/NaBY3Sev3M,Sat Jun 30 21:30:11 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,14
+14,Hear emotional phone calls from parents separated from their kids as a result of the Trump administration's zero to… https://t.co/jynF3Ftjia,Sat Jun 30 21:25:19 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.918, 'pos': 0.082, 'compound': 0.1531}",0.082,0.0,0.918,0.1531,15
+15,"Singer John Legend urges crowd at immigration rally in Los Angeles to resist the temptation to disengage and to ""do… https://t.co/1zbU3k40eW",Sat Jun 30 21:11:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,16
+16,"A former spokesman for US Immigration and Customs Enforcement says agents ""have a rough time with this too"" in the… https://t.co/Wr5Kwe7VTq",Sat Jun 30 21:06:06 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,17
+17,"""Hamilton"" creator Lin-Manuel Miranda sings a lullaby from the hit Broadway musical at the Families Belong Together… https://t.co/4dYTdw2e0T",Sat Jun 30 20:59:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,18
+18,"""This fight does not belong to one group of people, one color of people, one race of people, one gender. It belongs… https://t.co/jngvFTA5u9",Sat Jun 30 20:52:00 +0000 2018,@CNN,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}",0.0,0.106,0.894,-0.3818,19
+19,The process for kids in immigration court is a maze with life and death consequences https://t.co/Cy56J9oqRW https://t.co/1yUwRZ7Wge,Sat Jun 30 20:47:07 +0000 2018,@CNN,"{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.5994}",0.0,0.206,0.794,-0.5994,20
+20,Sen. Elizabeth Warren calls for US Immigration and Customs Enforcement to be replaced with an agency that reflects… https://t.co/tv7sYa31md,Sat Jun 30 20:42:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,21
+21,Immigration protest signs reveal a kaleidoscope of outrage https://t.co/LbZz6lqPDI https://t.co/5hZeybAzZh,Sat Jun 30 20:37:04 +0000 2018,@CNN,"{'neg': 0.431, 'neu': 0.569, 'pos': 0.0, 'compound': -0.6486}",0.0,0.431,0.569,-0.6486,22
+22,Protesters explain why they joined immigration rallies https://t.co/5g1Cg5aIQV https://t.co/03eEsfpovq,Sat Jun 30 20:32:42 +0000 2018,@CNN,"{'neg': 0.192, 'neu': 0.808, 'pos': 0.0, 'compound': -0.2263}",0.0,0.192,0.808,-0.2263,23
+23,"This 12-year-old girl delivers an impassioned plea for immigrant families at the ""Families Belong Together"" rally i… https://t.co/WstQ4QBDIq",Sat Jun 30 20:26:40 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,24
+24,"Alexandra Ocasio-Cortez beat out a 10-term congressman in New York. Now, she's marching for separated families.… https://t.co/eXokumkXpP",Sat Jun 30 20:20:16 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,25
+25,"""How dare you. How dare you take the babies from their mother's arms!"" Rep. Maxine Waters says President Trump has… https://t.co/Ha0BkVS6zV",Sat Jun 30 19:58:22 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,26
+26,"""We are better than this. We are better than having these detention centers that are prisons,"" says Sen. Kamala Har… https://t.co/7MM74J1xB5",Sat Jun 30 19:52:07 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.684, 'pos': 0.221, 'compound': 0.5106}",0.221,0.095,0.684,0.5106,27
+27,This mom brought her kids to teach them about resilience https://t.co/ZlTtxMk7xZ https://t.co/GPyFXAyluT,Sat Jun 30 19:43:03 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,28
+28,"These kids dedicate their nightly prayers to the separated children, according to their mother… https://t.co/eshZBMgkD0",Sat Jun 30 19:38:18 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,29
+29,President Trump is in New Jersey. Protesters are gathered nearby. https://t.co/QogUPZAvJt https://t.co/OnVjYTs2rm,Sat Jun 30 19:27:55 +0000 2018,@CNN,"{'neg': 0.147, 'neu': 0.853, 'pos': 0.0, 'compound': -0.2263}",0.0,0.147,0.853,-0.2263,30
+30,"""Leave office."" This is one Chicago protester's message to President Trump. https://t.co/EEde7b0qR2 https://t.co/KCPP9kWWEB",Sat Jun 30 19:20:14 +0000 2018,@CNN,"{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.0516}",0.0,0.091,0.909,-0.0516,31
+31,"""It's going to be their generation's fight."" This mom explains why she is marching with her kids.… https://t.co/J1hrUj7ylm",Sat Jun 30 19:15:04 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,32
+32,It's really hot in DC. That's not stopping the marchers. https://t.co/96vkXoeNi2 https://t.co/JBJhH7kTtz,Sat Jun 30 19:10:20 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.1139}",0.116,0.0,0.884,0.1139,33
+33,This 36-year-old teacher says she sees her family in the faces of asylum seekers https://t.co/xUMYoiCtTN https://t.co/X6iR1c0eOV,Sat Jun 30 19:05:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,34
+34,"This 12-year-old girl says she lives in ""constant fear"" that her undocumented mother will be deported… https://t.co/P4cMGmPTiW",Sat Jun 30 19:00:19 +0000 2018,@CNN,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.4939}",0.0,0.167,0.833,-0.4939,35
+35,These are just some of the signs demonstrators in New York City are carrying as they march against the Trump admini… https://t.co/G3tykVs60K,Sat Jun 30 18:55:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,36
+36,"""This issue is finally getting the attention that it deserves."" Elizabeth Rodriguez says she's been advocating for… https://t.co/NddgZPHZMd",Sat Jun 30 18:50:19 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,37
+37,"Protesters in Houston are chanting ""no baby jails"" https://t.co/UZTAZdi5le https://t.co/EhN6LmPasn",Sat Jun 30 18:45:29 +0000 2018,@CNN,"{'neg': 0.339, 'neu': 0.661, 'pos': 0.0, 'compound': -0.4767}",0.0,0.339,0.661,-0.4767,38
+38,"""It's never too early to start, right?"" This mom brought her 3-month-old to protest at the Families Belong Together… https://t.co/4cqPyvVVe4",Sat Jun 30 18:40:04 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.25}",0.0,0.095,0.905,-0.25,39
+39,"These mothers have never been to a protest, but couldn't sit out this one https://t.co/DfaWJFva4h https://t.co/D5Cw6d8f78",Sat Jun 30 18:35:06 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.0951}",0.089,0.0,0.911,0.0951,40
+40,"This protester in Chicago describes what's happening with the immigration debate as ""a battle for the soul of the c… https://t.co/uO2bUFY2Pv",Sat Jun 30 18:30:21 +0000 2018,@CNN,"{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.3818}",0.0,0.115,0.885,-0.3818,41
+41,"This Knoxville family wants the White House to know they ""really do care"" https://t.co/JVJFmFX9WF https://t.co/cvmKcKEUOD",Sat Jun 30 18:25:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.539}",0.199,0.0,0.801,0.539,42
+42,"""There are good people who are going to help you find your families again."" At immigration rally in Washington, D.C… https://t.co/cKew9AKVb4",Sat Jun 30 18:20:47 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.6808}",0.228,0.0,0.772,0.6808,43
+43,"""Look at ICE (U.S. Immigration and Customs Enforcement), what a group of incompetents. At this point they're focuse… https://t.co/U7SY3Cm5HK",Sat Jun 30 18:16:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,44
+44,Crowds of people are gathering in downtown Los Angeles right now to protest against the Trump administration's immi… https://t.co/mF3pgubpLg,Sat Jun 30 18:10:00 +0000 2018,@CNN,"{'neg': 0.1, 'neu': 0.9, 'pos': 0.0, 'compound': -0.25}",0.0,0.1,0.9,-0.25,45
+45,Democratic Rep. Joe Kennedy III vows to fight President Trump's immigration policies https://t.co/txzfCAsoia https://t.co/8hFIqaCLuy,Sat Jun 30 18:05:20 +0000 2018,@CNN,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.3818}",0.0,0.167,0.833,-0.3818,46
+46,"""This moment is a moral crisis for our country."" Democratic Sen. Elizabeth Warren, speaking to demonstrators in Bos… https://t.co/JluoXEwRK2",Sat Jun 30 17:55:22 +0000 2018,@CNN,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.6249}",0.0,0.194,0.806,-0.6249,47
+47,These children wrote letters to kids separated from their families https://t.co/iF0SFwhyI0 https://t.co/QcezGt8BDU,Sat Jun 30 17:45:24 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,48
+48,"""I feel I must do something, anything to not be a bystander to such injustice,"" says Samuel Rubinstein, who is marc… https://t.co/eUcdf2nI6M",Sat Jun 30 17:35:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,49
+49,"She was arrested at the US Capitol this week. Today, she's marching again. https://t.co/KnLeCdY0tl https://t.co/bj5zaUB7Dt",Sat Jun 30 17:25:06 +0000 2018,@CNN,"{'neg': 0.181, 'neu': 0.819, 'pos': 0.0, 'compound': -0.4767}",0.0,0.181,0.819,-0.4767,50
+50,"""I'm outraged that families are being separated,"" says Margaret Stokes, a teacher from Leesburg, Virginia, who is m… https://t.co/iqu2mI3ZwM",Sat Jun 30 17:15:10 +0000 2018,@CNN,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.5423}",0.0,0.171,0.829,-0.5423,51
+51,This couple brought their young children to the New York protest. They're marching so they can be voices for those… https://t.co/JHRqahl2c0,Sat Jun 30 17:05:14 +0000 2018,@CNN,"{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.25}",0.0,0.091,0.909,-0.25,52
+52,Atlanta protesters rallying against President Trump's immigration policy are carrying a dog crate with baby dolls i… https://t.co/XAgazaFoHI,Sat Jun 30 16:55:18 +0000 2018,@CNN,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.2263}",0.0,0.106,0.894,-0.2263,53
+53,This mother and daughter are marching to show the importance of family https://t.co/p1DL1TQhOr https://t.co/HVYrBP4Ysw,Sat Jun 30 16:45:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}",0.161,0.0,0.839,0.3612,54
+54,Here's a look at where the marches and demonstrations against the Trump administration's immigration policies are h… https://t.co/szXR1qC4CR,Sat Jun 30 16:30:10 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,55
+55,"""If it can happen to any child, it can happen to my child, and your child, and all of our children,"" says singer Al… https://t.co/aMfUzzsQxs",Sat Jun 30 16:22:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,56
+56,Protesters in New York City plan to march over the Brooklyn Bridge https://t.co/dIsMeq6d0A https://t.co/Jc2tBelHxB,Sat Jun 30 16:15:17 +0000 2018,@CNN,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}",0.0,0.128,0.872,-0.2263,57
+57,She's marching today to make America the country her parents dreamed of https://t.co/6wzPzhRbbm https://t.co/ZHEveBJjlo,Sat Jun 30 16:00:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,58
+58,President Trump isn't at the White House today. Protesters are rallying anyway. https://t.co/a58zOxDb57 https://t.co/eEisfG63Rq,Sat Jun 30 15:52:00 +0000 2018,@CNN,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}",0.0,0.128,0.872,-0.2263,59
+59,The House voted on two immigration measures. Neither passed. https://t.co/bh9GAXuv5o https://t.co/CLsLSX98lB,Sat Jun 30 15:45:04 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,60
+60,"You may see a lot of shirts and signs that read, ""I really do care"" at the Families Belong Together rallies… https://t.co/TVCjXYyKu9",Sat Jun 30 15:30:06 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.539}",0.148,0.0,0.852,0.539,61
+61,Here's how the last immigration protest in Washington went down https://t.co/hvDxKb3lL9 https://t.co/QrVSACE3wl,Sat Jun 30 15:15:10 +0000 2018,@CNN,"{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.25}",0.0,0.154,0.846,-0.25,62
+62,"Massive crowds protesting President Trump's immigration policies say they have 3 demands. They want:
+■ separated mi… https://t.co/oVZVIrrem0",Sat Jun 30 15:00:08 +0000 2018,@CNN,"{'neg': 0.155, 'neu': 0.773, 'pos': 0.072, 'compound': -0.3612}",0.072,0.155,0.773,-0.3612,63
+63,"You're probably washing your hands all wrong, study says https://t.co/6DHqrlugYl https://t.co/pr8qL45wSx",Sat Jun 30 14:45:02 +0000 2018,@CNN,"{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}",0.0,0.237,0.763,-0.4767,64
+64,"My son's death proves the harm of weaponizing belief, writes Dennis Shepard for @CNNOpinion https://t.co/3Xhy0jrunQ https://t.co/IE5GIvEncc",Sat Jun 30 14:30:12 +0000 2018,@CNN,"{'neg': 0.346, 'neu': 0.654, 'pos': 0.0, 'compound': -0.8126}",0.0,0.346,0.654,-0.8126,65
+65,Thieves emptied the bank account of America's oldest living veteran https://t.co/AJEEkhenLg https://t.co/XoVwIGGhAh,Sat Jun 30 14:15:04 +0000 2018,@CNN,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6124}",0.0,0.333,0.667,-0.6124,66
+66,What you should know about this weekend's protests against President Trump's immigration policy… https://t.co/mpOqLKbjJ0,Sat Jun 30 14:01:14 +0000 2018,@CNN,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}",0.0,0.128,0.872,-0.2263,67
+67,"One step on the island of Bermuda, and it's impossible not to be moved by its beauty, history, simplicity and charm… https://t.co/c4QuVIt908",Sat Jun 30 13:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.5859}",0.153,0.0,0.847,0.5859,68
+68,One word shows how much we've changed the way we talk about race | By CNN's John Blake https://t.co/PR1jvQrgqh https://t.co/Jp8oOYq9Fr,Sat Jun 30 13:16:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,69
+69,"The IRS is cutting the 1040 form in half. Instead of filling two pages, the new version will take up about one, acc… https://t.co/s3JXNytJ5o",Sat Jun 30 13:01:04 +0000 2018,@CNN,"{'neg': 0.061, 'neu': 0.939, 'pos': 0.0, 'compound': -0.128}",0.0,0.061,0.939,-0.128,70
+70,Watch these homes being built using a 3D printer https://t.co/igaBP4BFwG https://t.co/OjOhBRVMRn,Sat Jun 30 12:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,71
+71,Ballet dancers showcase Hong Kong in gravity-defying images https://t.co/98YW55XneE via @CNNTravel https://t.co/scFdlJGo5d,Sat Jun 30 12:01:06 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,72
+72,"Will we ever fly like the Jetsons? After this company unveiled Flyer, its first commercial flying car, @RachCrane t… https://t.co/yM4kZ4odQK",Sat Jun 30 11:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}",0.116,0.0,0.884,0.3612,73
+73,These are the stunning winners of the 2018 National Geographic Travel Photographer of the Year… https://t.co/DbCSwLCnMM,Sat Jun 30 11:01:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.711, 'pos': 0.289, 'compound': 0.6908}",0.289,0.0,0.711,0.6908,74
+74,Egypt is building The Grand Egyptian Museum. The cost? More than $1 billion. It will re-house and restore some of t… https://t.co/G3xypDbMIF,Sat Jun 30 10:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.6369}",0.206,0.0,0.794,0.6369,75
+75,Boeing's hypersonic passenger plane could get you from New York to London in 2 hours https://t.co/9oADl8bB4n https://t.co/DkPrTGF5XP,Sat Jun 30 10:01:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,76
+76,"In 2012, Luke Mickelson was shocked to learn that children in his community slept on the floor. So he quit his high… https://t.co/MGJq7GAxQs",Sat Jun 30 09:31:00 +0000 2018,@CNN,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.3182}",0.0,0.095,0.905,-0.3182,77
+77,"Former President Barack Obama tells Democrats: ""This is a moment of great urgency and you are right to be concerned… https://t.co/KCIs51PQ9X",Sat Jun 30 09:01:04 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.6249}",0.177,0.0,0.823,0.6249,78
+78,Meet Miquela: The CGI Instagram star making brands real money — even though she's not a real human… https://t.co/MsPR10QYDU,Sat Jun 30 08:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,79
+79,Here are the best places to watch fireworks on July 4 https://t.co/obBPC6Gnss https://t.co/WrG4r83sHP,Sat Jun 30 08:01:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.6369}",0.276,0.0,0.724,0.6369,80
+80,"While obesity, lack of exercise and genetic risk are major drivers for diabetes, studies have shown a link between… https://t.co/2OCqMEG9Nb",Sat Jun 30 07:46:04 +0000 2018,@CNN,"{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.5267}",0.0,0.206,0.794,-0.5267,81
+81,"Aston Martin brings back the Superleggera as a powerful new $300,000 supercar https://t.co/9nesdQE6WF https://t.co/4j7xU4s5Dg",Sat Jun 30 07:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}",0.189,0.0,0.811,0.4215,82
+82,"Two dads, an egg donor and a surrogate: How a freezer failure changed everything https://t.co/oHhWNWxmwz https://t.co/ZfvIGWR3fb",Sat Jun 30 07:16:05 +0000 2018,@CNN,"{'neg': 0.202, 'neu': 0.798, 'pos': 0.0, 'compound': -0.5106}",0.0,0.202,0.798,-0.5106,83
+83,Does a plateau exist for human mortality? New research suggests that any maximum fixed lifespan has yet to be reach… https://t.co/uibviDUedO,Sat Jun 30 07:01:01 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,84
+84,I'm marching to make America the country my parents dreamed of | By Karine Jean-Pierre via @CNNOpinion… https://t.co/a4cmgxTebQ,Sat Jun 30 06:46:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,85
+85,"In a retail industry beset by problems, H&amp;M has a stockpile of unsold clothes worth $4 billion… https://t.co/Sqzo0PF39o",Sat Jun 30 06:31:00 +0000 2018,@CNN,"{'neg': 0.145, 'neu': 0.753, 'pos': 0.102, 'compound': -0.2023}",0.102,0.145,0.753,-0.2023,86
+86,"1 in 3 African American men are incarcerated in the US. #AmericanJail, a new CNN Film, premieres Sunday. https://t.co/otw68e0Wv3",Sat Jun 30 06:15:12 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,87
+87,"Arnold Schwarzenegger mocks Trump's attempts to ""rescue the coal industry,"" asking in a video message what the Pres… https://t.co/H1CACG9Zlz",Sat Jun 30 06:01:00 +0000 2018,@CNN,"{'neg': 0.135, 'neu': 0.717, 'pos': 0.148, 'compound': 0.0772}",0.148,0.135,0.717,0.0772,88
+88,"These 600 Hawaiian cats have a better life than you.
+
+Welcome to the Lana'i Cat Sanctuary -- Where felines of all s… https://t.co/NAtUoCZOzI",Sat Jun 30 05:46:07 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.7096}",0.228,0.0,0.772,0.7096,89
+89,Amazon has launched a new program that allows you to start your own small business delivering Prime packages — the… https://t.co/N0isk4cecD,Sat Jun 30 05:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.296}",0.158,0.0,0.842,0.296,90
+90,Air pollution levels well below what is considered safe by the US EPA and the World Health Organization are causing… https://t.co/zQasN8CABP,Sat Jun 30 05:16:08 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6124}",0.208,0.0,0.792,0.6124,91
+91,The FDR Library and Museum released rare video of Franklin D. Roosevelt walking https://t.co/xUMKmgNJgW https://t.co/9uWnaPoYXf,Sat Jun 30 05:01:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,92
+92,Police used facial recognition to identify the Capital Gazette shooter. Here's how it works https://t.co/ymukXJEVrs https://t.co/8CdoJjzYfZ,Sat Jun 30 04:46:08 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,93
+93,"Spider-Man, Captain America, and other superheroes dropped by a children's hospital in Iowa to give the kids a thri… https://t.co/wcpF5jeBL2",Sat Jun 30 04:31:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,94
+94,"Toys ""R"" Us closes its final 200 US stores for good https://t.co/5yO1QoJ1Xd https://t.co/FMpEw8WyCM",Sat Jun 30 04:16:00 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}",0.195,0.0,0.805,0.4404,95
+95,Maryland could have the largest all-male delegation in Congress next year https://t.co/MAskMowi7a https://t.co/8K83v1101u,Sat Jun 30 03:46:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,96
+96,RT @CuomoPrimeTime: Trump Supreme Court adviser Leonard Leo tells @ChrisCuomo that the President has never once asked a single potential co…,Sat Jun 30 03:32:51 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.5574}",0.159,0.0,0.841,0.5574,97
+97,"""The Dancing Doctor"" has agreed to give up her medical license for at least two-and-a-half years, records show… https://t.co/yUoI16dN57",Sat Jun 30 03:31:05 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.2732}",0.104,0.0,0.896,0.2732,98
+98,"RT @CuomoPrimeTime: The prank call with President Trump that a comedian claims he partook in while pretending to be Sen. Bob Menendez is ""i…",Sat Jun 30 03:29:08 +0000 2018,@CNN,"{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.4588}",0.16,0.0,0.84,0.4588,99
+99,President Trump celebrated the six-month anniversary of the Republican tax cuts by calling them an “economic miracl… https://t.co/UkWK50v6wI,Sat Jun 30 03:19:49 +0000 2018,@CNN,"{'neg': 0.1, 'neu': 0.731, 'pos': 0.169, 'compound': 0.3612}",0.169,0.1,0.731,0.3612,100
+0,"Earlier today, President @realDonaldTrump tweeted about what he thinks U.S. authorities should do with illegal immi… https://t.co/z0LhwVMGlY",Sun Jul 01 03:05:00 +0000 2018,@FoxNews,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.5574}",0.0,0.184,0.816,-0.5574,1
+1,"In Florida battleground, Puerto Ricans fleeing Maria's destruction reshape electoral landscape
+https://t.co/DHk2bogJ0B",Sun Jul 01 02:50:00 +0000 2018,@FoxNews,"{'neg': 0.39, 'neu': 0.61, 'pos': 0.0, 'compound': -0.7506}",0.0,0.39,0.61,-0.7506,2
+2,"Demonstrators rally against the separation of immigrant families, on June 30, 2018 in Washington D.C. Demonstration… https://t.co/9gc0RAmWxp",Sun Jul 01 02:49:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,3
+3,".@RepJeffDenham: ""Abolishing ICE - that's just crazy."" https://t.co/Qt9s0ESoqN",Sun Jul 01 02:44:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,4
+4,"Maxine Waters' GOP rival seeks traction over her inflammatory comments
+https://t.co/4FyWnRRbys",Sun Jul 01 02:40:15 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,5
+5,Activists hold signs during a rally to protest the Trump administration's approach to illegal border crossings and… https://t.co/UUgj2ObHXw,Sun Jul 01 02:37:01 +0000 2018,@FoxNews,"{'neg': 0.272, 'neu': 0.728, 'pos': 0.0, 'compound': -0.6808}",0.0,0.272,0.728,-0.6808,6
+6,".@GiannoCaldwell: ""We're at 3.8% GDP and projected to be over 4% in the second quarter of this year."" https://t.co/k3nqYmOFdL",Sun Jul 01 02:30:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,7
+7,Protesters against Iranian regime see a free Tehran ahead https://t.co/P1zYb2tT7t,Sun Jul 01 02:25:00 +0000 2018,@FoxNews,"{'neg': 0.156, 'neu': 0.574, 'pos': 0.27, 'compound': 0.34}",0.27,0.156,0.574,0.34,8
+8,Trump calls US immigration laws 'the dumbest anywhere in the world' https://t.co/UqiqIqLUtb,Sun Jul 01 02:19:58 +0000 2018,@FoxNews,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5106}",0.0,0.231,0.769,-0.5106,9
+9,"RT @FoxBusiness: Halo Top is 'dramatically' under-filling pints, lawsuit alleges https://t.co/kgWxs1mw8x https://t.co/aceULIAGYp",Sun Jul 01 02:17:56 +0000 2018,@FoxNews,"{'neg': 0.139, 'neu': 0.73, 'pos': 0.131, 'compound': -0.0258}",0.131,0.139,0.73,-0.0258,10
+10,Scaramucci on SCOTUS: 'People Should Relax' and Let Trump Pick Before Criticizing https://t.co/xAmc0j4g0M,Sun Jul 01 02:16:26 +0000 2018,@FoxNews,"{'neg': 0.152, 'neu': 0.671, 'pos': 0.177, 'compound': 0.1027}",0.177,0.152,0.671,0.1027,11
+11,Activists carry signs across the Brooklyn Bridge during a rally to protest the Trump administration's immigration p… https://t.co/yB2lz258bD,Sun Jul 01 02:07:49 +0000 2018,@FoxNews,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.25}",0.0,0.111,0.889,-0.25,12
+12,".@charliekirk11: ""A primary component of implementing fascist policies would be, let's say, gun confiscation. You h… https://t.co/wyY8K8T8H6",Sun Jul 01 01:56:57 +0000 2018,@FoxNews,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.7184}",0.0,0.286,0.714,-0.7184,13
+13,".@Rep_Hunter: ""@TheDemocrats don't want to fix this problem so @POTUS had to."" @JudgeJeanine https://t.co/v2501WyeOU",Sun Jul 01 01:45:00 +0000 2018,@FoxNews,"{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.5183}",0.0,0.266,0.734,-0.5183,14
+14,".@tedcruz: ""This is horrific. An avowed Nazi running for Congress. To the good people of Illinois, you have two rea… https://t.co/PzJWKorju4",Sun Jul 01 01:38:00 +0000 2018,@FoxNews,"{'neg': 0.167, 'neu': 0.722, 'pos': 0.11, 'compound': -0.3612}",0.11,0.167,0.722,-0.3612,15
+15,Self magazine features plus-size model Tess Holliday on first digital cover https://t.co/MwUzsU4OyZ,Sun Jul 01 01:35:01 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,16
+16,NEWS ALERT: South Sudan ceasefire broken within hours. https://t.co/XZrUilo74k,Sun Jul 01 01:30:14 +0000 2018,@FoxNews,"{'neg': 0.238, 'neu': 0.537, 'pos': 0.225, 'compound': -0.0431}",0.225,0.238,0.537,-0.0431,17
+17,".@LaraLeaTrump: ""If they are voting for someone who wants to abolish ICE, these people are putting illegal immigran… https://t.co/MuTNqwlWfA",Sun Jul 01 01:22:06 +0000 2018,@FoxNews,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.5574}",0.0,0.167,0.833,-0.5574,18
+18,".@JudgeJeanine: ""Right now in America, there are forces dug in, organized, and well-funded doing whatever is necess… https://t.co/kH0GKwiDRv",Sun Jul 01 01:13:18 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,19
+19,"RIGHT NOW on ""Justice,"" @JudgeJeanine talks to @LaraLeaTrump - Tune in to Fox News Channel! https://t.co/VIA88ash5w",Sun Jul 01 01:00:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,20
+20,"On @WattersWorld, @RealCandaceO talked about how the hard left movement of the Democratic Party has led to people l… https://t.co/JGgVtHzG0c",Sun Jul 01 00:55:00 +0000 2018,@FoxNews,"{'neg': 0.063, 'neu': 0.814, 'pos': 0.122, 'compound': 0.3182}",0.122,0.063,0.814,0.3182,21
+21,Mystery good Samaritan buys $1M of toys from Toys R Us to donate to kids https://t.co/mLguxFmmfe,Sun Jul 01 00:54:33 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}",0.172,0.0,0.828,0.4404,22
+22,".@DiamondandSilk: ""When an American breaks the law, they're given three hots and a cot behind a locked cell block -… https://t.co/jjIjPqXNgM",Sun Jul 01 00:48:56 +0000 2018,@FoxNews,"{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.4404}",0.0,0.139,0.861,-0.4404,23
+23,".@DiamondandSilk: ""We need ICE. We need this because there's illegal aliens crossing our border - illegally. They'r… https://t.co/FwcVvk7fZt",Sun Jul 01 00:47:44 +0000 2018,@FoxNews,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.5574}",0.0,0.184,0.816,-0.5574,24
+24,Protesters against Iranian regime see a free Tehran ahead - via @EricShawnTV https://t.co/5QOu86bt1L,Sun Jul 01 00:39:09 +0000 2018,@FoxNews,"{'neg': 0.134, 'neu': 0.634, 'pos': 0.232, 'compound': 0.34}",0.232,0.134,0.634,0.34,25
+25,".@annakooiman is ready to celebrate #july4thweekend and she'll be live from Norfolk, VA - Monday, Tuesday, and Wedn… https://t.co/vTzQvUrzE2",Sun Jul 01 00:34:37 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.721, 'pos': 0.279, 'compound': 0.7351}",0.279,0.0,0.721,0.7351,26
+26,"This morning, President @realDonaldTrump praised the men and women of @ICEgov. https://t.co/mMn4nrKBtJ https://t.co/CVcZCCdTJK",Sun Jul 01 00:30:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}",0.211,0.0,0.789,0.4939,27
+27,".@RealCandaceO: ""I actually see a lot of liberal refugees, people that no longer recognize the party that they were… https://t.co/42Rq1IT0mc",Sun Jul 01 00:27:31 +0000 2018,@FoxNews,"{'neg': 0.1, 'neu': 0.776, 'pos': 0.123, 'compound': 0.128}",0.123,0.1,0.776,0.128,28
+28,".@marcthiessen: ""@TheDemocrats have become a party of coastal elites that's completely lost touch with the middle o… https://t.co/uoQK3sJLv4",Sun Jul 01 00:27:00 +0000 2018,@FoxNews,"{'neg': 0.128, 'neu': 0.739, 'pos': 0.133, 'compound': 0.0276}",0.133,0.128,0.739,0.0276,29
+29,".@QJames: ""That restaurant owner had every right to refuse service to someone who she disagrees with."" @WattersWorld https://t.co/3E5h4QPW4H",Sun Jul 01 00:22:00 +0000 2018,@FoxNews,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.5423}",0.0,0.22,0.78,-0.5423,30
+30,"Student Highlights 'Shocking' Backlash After Classmate's Pro-Trump Comment During Debate
+https://t.co/KYPDsKDWHF",Sun Jul 01 00:20:40 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,31
+31,"SUNDAY on @SundayFutures, @MariaBartiromo's exclusive interview with President @realDonaldTrump - Tune in at 10a ET… https://t.co/ZepzH6YSw4",Sun Jul 01 00:10:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.128}",0.097,0.0,0.903,0.128,32
+32,".@JesseBWatters: ""The bottom line is everybody should be treated with respect in this country."" @WattersWorld https://t.co/LXgzGpEhl9",Sun Jul 01 00:07:38 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.829, 'pos': 0.171, 'compound': 0.4767}",0.171,0.0,0.829,0.4767,33
+33,"Earlier today, New York Gov. @andrewcuomo recognized the #FamiliesBelongTogether rallies across the U.S., tweeting… https://t.co/j47ygTNaII",Sun Jul 01 00:05:10 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,34
+34,"Earlier today, President @realDonaldTrump tweeted about what he thinks U.S. authorities should do with illegal immi… https://t.co/JdAk8NFR1v",Sat Jun 30 23:55:20 +0000 2018,@FoxNews,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.5574}",0.0,0.184,0.816,-0.5574,35
+35,NEWS ALERT: President @realDonaldTrump to announce Supreme Court nominee nominee July 9th. https://t.co/XKCUnrIlhY https://t.co/WAMtQJIt3F,Sat Jun 30 23:50:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.7603}",0.353,0.0,0.647,0.7603,36
+36,".@TuckerCarlson: ""What will happen when word gets out that nobody in any country on the globe has anything to fear… https://t.co/DJMSMEN8dL",Sat Jun 30 23:49:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,37
+37,"Angel Mom Courtney Hacking, whose husband and two children were killed in a crash involving an illegal immigrant, s… https://t.co/uVFiLKSV0v",Sat Jun 30 23:41:02 +0000 2018,@FoxNews,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.8957}",0.0,0.403,0.597,-0.8957,38
+38,".@RepGoodlatte: “Every American, Republicans, Democrats, Independents, all should be concerned about what was done… https://t.co/KYHk6gIBgl",Sat Jun 30 23:38:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,39
+39,Canada vows to impose tariffs on U.S. goods https://t.co/fQfP5U2yn3,Sat Jun 30 23:34:06 +0000 2018,@FoxNews,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",0.0,0.216,0.784,-0.296,40
+40,"Kayla Adelmund, right, and her brother Nicholas sit with their grandmother Delores Kudelka during a rally to protes… https://t.co/OL3IJZvUJg",Sat Jun 30 23:30:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,41
+41,".@KamalaHarris: ""We're better than this. We are better than this."" https://t.co/W27npkqzko",Sat Jun 30 23:25:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.608, 'pos': 0.392, 'compound': 0.7003}",0.392,0.0,0.608,0.7003,42
+42,"Earlier, President @realDonaldTrump tweeted about the filibuster and ""Cryin' Chuck."" https://t.co/O9BQvWCyc6",Sat Jun 30 23:20:11 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,43
+43,"President @realDonaldTrump spends weekend at Bedminster, N.J. resort. https://t.co/nUj8TWCPz3",Sat Jun 30 23:14:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,44
+44,"Trump Administration's ""zero tolerance"" immigration policy sparks coast-to-coast #FamiliesBelongTogether protests.… https://t.co/DGPqJXQSSG",Sat Jun 30 23:06:45 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.296}",0.18,0.0,0.82,0.296,45
+45,Owen Wilson offers to take DNA test over claim he fathered a third child https://t.co/ZWapUJEUwz,Sat Jun 30 22:59:14 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,46
+46,"RT @FoxBusiness: .@AlvedaCKing on civil discourse in politics: ""We don't have to come right back at somebody because they say something tha…",Sat Jun 30 22:58:40 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,47
+47,"RT @FoxBusiness: .@AlanDersh on the next Supreme Court nominee: ""I think the American public wants to see a Supreme Court that's non-partis…",Sat Jun 30 22:58:34 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.802}",0.275,0.0,0.725,0.802,48
+48,News Alert: Spring fire in Colorado prompts thousands of evacuations. https://t.co/zScgssvmOm,Sat Jun 30 22:55:45 +0000 2018,@FoxNews,"{'neg': 0.176, 'neu': 0.662, 'pos': 0.162, 'compound': -0.0516}",0.162,0.176,0.662,-0.0516,49
+49,"In a recent interview, 2016 Democrat presidential nominee @HillaryClinton made clear she is not going to “call it a… https://t.co/wFp6fuTlUa",Sat Jun 30 22:50:38 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.3818}",0.126,0.0,0.874,0.3818,50
+50,"RT @EricShawnTV: More calls from Democrats to abolish #ICE, from @SenGillibrand, @NYCMayor de Blasio and others. @POTUS @realDonaldTrump sa…",Sat Jun 30 22:49:42 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,51
+51,Chele Farley: “We need criminals deported.” https://t.co/7Yp8gSOGts,Sat Jun 30 22:43:35 +0000 2018,@FoxNews,"{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.5719}",0.0,0.381,0.619,-0.5719,52
+52,FL Mom's Story of Trump Tax Cut Benefits Gets Standing Ovation at White House https://t.co/RoL3nzb42g,Sat Jun 30 22:36:04 +0000 2018,@FoxNews,"{'neg': 0.119, 'neu': 0.734, 'pos': 0.147, 'compound': 0.128}",0.147,0.119,0.734,0.128,53
+53,"Julie Banuelos of Denver waves a placard during an immigration rally and protest in Civic Center Park Saturday, Jun… https://t.co/0OC0dABwrx",Sat Jun 30 22:30:00 +0000 2018,@FoxNews,"{'neg': 0.1, 'neu': 0.9, 'pos': 0.0, 'compound': -0.25}",0.0,0.1,0.9,-0.25,54
+54,"TONIGHT on ""Justice,"" @JudgeJeanine talks to @LaraLeaTrump - Tune in at 9p ET on Fox News Channel! https://t.co/mupVnwax92",Sat Jun 30 22:29:34 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,55
+55,"California mother, boyfriend hit with 'murder and torture' charge in 10-year-old boy's death, officials say https://t.co/gx3zkyjJbj",Sat Jun 30 22:23:44 +0000 2018,@FoxNews,"{'neg': 0.49, 'neu': 0.51, 'pos': 0.0, 'compound': -0.926}",0.0,0.49,0.51,-0.926,56
+56,".@Schwarzenegger Scolds President @realDonaldTrump Bobblehead about 'Foolish' Coal Efforts in Climate Change Video
+https://t.co/GC8tLlWdZW",Sat Jun 30 22:14:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,57
+57,"Moments ago, @SenGillibrand tweeted about attending a #FamiliesBelongTogether march. https://t.co/ra8PqCyXST https://t.co/DdBfx3gvJr",Sat Jun 30 22:12:14 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,58
+58,NEWS ALERT: President @realDonaldTrump to announce Supreme Court nominee nominee July 9th. https://t.co/XKCUnrIlhY https://t.co/lzsL14OdBG,Sat Jun 30 22:05:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.7603}",0.353,0.0,0.647,0.7603,59
+59,"Brandon Judd: “We’re taking the walls, where we currently have them, we’re reinforcing those walls… and we’re expan… https://t.co/hkEbn5A9e4",Sat Jun 30 22:00:01 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,60
+60,"Earlier today, President @realDonaldTrump tweeted about what he thinks U.S. authorities should do with illegal immi… https://t.co/hZkxBplMkM",Sat Jun 30 21:49:00 +0000 2018,@FoxNews,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.5574}",0.0,0.184,0.816,-0.5574,61
+61,Huckabee: Trump Could Nominate Moses for Supreme Court &amp; Dems Would Still Oppose It https://t.co/6ge19CvsSs https://t.co/QrJXdfkePc,Sat Jun 30 21:45:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.5574}",0.194,0.0,0.806,0.5574,62
+62,Ex-@CNN producer blasts Jim @Acosta for 'self-serving antics' https://t.co/QMKFxPQGkq,Sat Jun 30 21:43:05 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,63
+63,#FamiliesBelongTogether rallies demanding reunification of immigrant families and an “end to family separation and… https://t.co/TwaxpLRrA8,Sat Jun 30 21:38:19 +0000 2018,@FoxNews,"{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.2263}",0.0,0.119,0.881,-0.2263,64
+64,.@akcdoglovers: The US has become a dumping ground for foreign ‘puppy mill’ and ‘rescue’ dogs. Here’s what needs to… https://t.co/PihFIvEdab,Sat Jun 30 21:31:41 +0000 2018,@FoxNews,"{'neg': 0.113, 'neu': 0.887, 'pos': 0.0, 'compound': -0.3182}",0.0,0.113,0.887,-0.3182,65
+65,Activists carry signs across the Brooklyn Bridge during a rally to protest the Trump administration's immigration p… https://t.co/Ns2IbvibME,Sat Jun 30 21:29:00 +0000 2018,@FoxNews,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.25}",0.0,0.111,0.889,-0.25,66
+66,".@THEHermanCain: ""[@TheDemocrats] don't have a leader right now. They have a lot of voices making a lot of noise an… https://t.co/a0sAXCV5BH",Sat Jun 30 21:27:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,67
+67,"""OBJECTified"" is back! Iconic rock stars, reality TV mavericks, and some of the biggest names in the world share th… https://t.co/PJgH1m4hNI",Sat Jun 30 21:22:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.3595}",0.111,0.0,0.889,0.3595,68
+68,'Rational Thought Is Kryptonite to the Left': Author @derekahunter Rips 'Dangerous' Rhetoric By Democrats… https://t.co/xBmMFU8qBA,Sat Jun 30 21:16:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,69
+69,Mexico holds presidential election tomorrow. https://t.co/cnryLpD3Oh,Sat Jun 30 20:58:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,70
+70,"LaSonya Hill: ""We're excited as a middle-class family who was able to benefit so much from this opportunity.""… https://t.co/9fuvvltWdB",Sat Jun 30 20:57:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.6597}",0.252,0.0,0.748,0.6597,71
+71,"Angel Mom Courtney Hacking: ""Every day parents are separated from their children permanently by actions that are of… https://t.co/0MLdDMxDpU",Sat Jun 30 20:49:32 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,72
+72,SUNDAY: Don't miss John Bolton’s exclusive interview on @FoxNewsSunday. Check your local listings and tune in to Fo… https://t.co/4Kaect1Bg2,Sat Jun 30 20:45:01 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.2368}",0.148,0.0,0.852,0.2368,73
+73,Ohio boy's lawn care business goes viral after 'ridiculous' neighbor calls cops on him https://t.co/nbmq1w0YBs,Sat Jun 30 20:32:22 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}",0.186,0.0,0.814,0.4939,74
+74,Activists hold signs during a rally to protest the Trump administration's approach to illegal border crossings and… https://t.co/hhjsS2P0H8,Sat Jun 30 20:29:00 +0000 2018,@FoxNews,"{'neg': 0.272, 'neu': 0.728, 'pos': 0.0, 'compound': -0.6808}",0.0,0.272,0.728,-0.6808,75
+75,'Stuttering John' says he was visited by Secret Service after Trump prank call https://t.co/ZVqh3CrAon,Sat Jun 30 20:26:28 +0000 2018,@FoxNews,"{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.3182}",0.0,0.15,0.85,-0.3182,76
+76,"On Twitter, @SenWarren reiterated her commitment to the LGBTQ+ community this #PrideMonth, invoking the Supreme Cou… https://t.co/a1cLFnIy3x",Sat Jun 30 20:23:38 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.7351}",0.292,0.0,0.708,0.7351,77
+77,"Moments ago, President @realDonaldTrump tweeted about the filibuster and ""Cryin' Chuck."" https://t.co/RlJapW8spt",Sat Jun 30 20:15:06 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,78
+78,An all-new season of 'OBJECTified' premieres tomorrow with NBA legend @MagicJohnson! Tune in to Fox News Channel at… https://t.co/bqGK2RfPiY,Sat Jun 30 20:11:43 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,79
+79,#FamiliesBelongTogether rallies demanding reunification of immigrant families and an “end to family separation and… https://t.co/gRZk16qx9K,Sat Jun 30 20:10:55 +0000 2018,@FoxNews,"{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.2263}",0.0,0.119,0.881,-0.2263,80
+80,Restaurant manager fired after refusing to serve customer wearing MAGA hat https://t.co/DPQy9dr5JX,Sat Jun 30 20:00:47 +0000 2018,@FoxNews,"{'neg': 0.387, 'neu': 0.613, 'pos': 0.0, 'compound': -0.743}",0.0,0.387,0.613,-0.743,81
+81,"Activists hold protest signs during a rally against the Trump administration's immigration policies Saturday, June… https://t.co/3vk6DgCugP",Sat Jun 30 19:49:00 +0000 2018,@FoxNews,"{'neg': 0.125, 'neu': 0.875, 'pos': 0.0, 'compound': -0.25}",0.0,0.125,0.875,-0.25,82
+82,"TOMORROW on @SundayFutures, @MariaBartiromo has exclusive interview with President @realDonaldTrump - Tune in at 10… https://t.co/fKSWXmU8tZ",Sat Jun 30 19:43:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.128}",0.097,0.0,0.903,0.128,83
+83,"Demonstrators rally against the separation of immigrant families, on June 30, 2018 in Washington D.C. Demonstration… https://t.co/g9M0zhNwdm",Sat Jun 30 19:37:05 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,84
+84,Trump predicts electoral doom for Democrats with ‘abolish ICE’ push: ‘They’re going to get beaten so badly’ https://t.co/2QtQOnaMq6,Sat Jun 30 19:30:58 +0000 2018,@FoxNews,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.6705}",0.0,0.256,0.744,-0.6705,85
+85,"Linda Land-Classon, right, holds up a sign w/ her 15-year-old son, Ivan, who came to America in 2003 from Vladivost… https://t.co/qWt3foe8AW",Sat Jun 30 19:26:37 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,86
+86,Activists gather during a rally to protest the Trump administration's approach to illegal border crossings and sepa… https://t.co/9I4boXbSs3,Sat Jun 30 19:20:42 +0000 2018,@FoxNews,"{'neg': 0.272, 'neu': 0.728, 'pos': 0.0, 'compound': -0.6808}",0.0,0.272,0.728,-0.6808,87
+87,"'Abolish ICE' goes mainstream as @SenGillibrand, @NYCMayor Bill de Blasio back calls https://t.co/ImNV0ULObG https://t.co/dmlB1215cp",Sat Jun 30 19:11:55 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,88
+88,".@GiannoCaldwell: ""We're at 3.8% GDP and projected to be over 4% in the second quarter of this year."" https://t.co/EpCNrLAu7R",Sat Jun 30 19:01:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,89
+89,"""We're doing a Phase 2... This will be even more aimed for the middle class.""
+
+President @realDonaldTrump talks Pha… https://t.co/tjCGI2bfDq",Sat Jun 30 18:57:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,90
+90,".@CheleFarley: ""Last year, ICE deported 796 members of MS-13. And if you remember, MS-13 is the gang that hacks kid… https://t.co/20BadSQpeP",Sat Jun 30 18:45:17 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,91
+91,#FamiliesBelongTogether rallies demanding reunification of immigrant families and an “end to family separation and… https://t.co/t37SfXThgH,Sat Jun 30 18:37:34 +0000 2018,@FoxNews,"{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.2263}",0.0,0.119,0.881,-0.2263,92
+92,".@SenGillibrand: ""This is a battle line that has been drawn that literally will put women’s lives at risk."" https://t.co/zlln3ZvXel",Sat Jun 30 18:33:38 +0000 2018,@FoxNews,"{'neg': 0.133, 'neu': 0.867, 'pos': 0.0, 'compound': -0.3818}",0.0,0.133,0.867,-0.3818,93
+93,".@RepJeffDenham: ""Abolishing ICE - that's just crazy."" https://t.co/0rJNX7U1NG",Sat Jun 30 18:21:04 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,94
+94,An all-new season of 'OBJECTified' premieres this Sunday with NBA legend @MagicJohnson! Tune in to Fox News Channel… https://t.co/KLnJmRoa91,Sat Jun 30 18:21:00 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,95
+95,#FamiliesBelongTogether rallies demanding reunification of immigrant families and an “end to family separation and… https://t.co/jIjRNvHs90,Sat Jun 30 18:14:55 +0000 2018,@FoxNews,"{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.2263}",0.0,0.119,0.881,-0.2263,96
+96,Hundreds of thousands rally nationwide for illegal immigrant families separated at border https://t.co/d7ABXanARJ,Sat Jun 30 17:56:57 +0000 2018,@FoxNews,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5574}",0.0,0.231,0.769,-0.5574,97
+97,".@SenWarren, speaks during a Rally Against Separation in Boston, MA. https://t.co/ra8PqCyXST https://t.co/ArJeEePe9u",Sat Jun 30 17:41:27 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,98
+98,.@Schwarzenegger Scolds Trump Bobblehead about 'Foolish' Coal Efforts in Climate Change Video https://t.co/w7C6xqul3X,Sat Jun 30 17:30:12 +0000 2018,@FoxNews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,99
+99,Trump predicts electoral doom for Democrats with ‘abolish ICE’ push: ‘They’re going to get beaten so badly’ https://t.co/2QtQOnaMq6,Sat Jun 30 17:18:14 +0000 2018,@FoxNews,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.6705}",0.0,0.256,0.744,-0.6705,100
+0,He helped turn one of Europe’s most venerable ensembles into one of the 21st century’s most forward-thinking orches… https://t.co/TnrU7LMSlw,Sun Jul 01 02:59:49 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,1
+1,"Not so long ago, “inappropriate” described things that were “not done."" These days, though, it’s an alarm. https://t.co/j8qHqSkmtZ",Sun Jul 01 02:42:34 +0000 2018,@nytimes,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.34}",0.0,0.124,0.876,-0.34,2
+2,"It’s hard to dose insulin, but it’s harder for a patient who speaks no English, has no refrigerator and regularly h… https://t.co/i5oFtA4Rdg",Sun Jul 01 02:25:36 +0000 2018,@nytimes,"{'neg': 0.274, 'neu': 0.726, 'pos': 0.0, 'compound': -0.7003}",0.0,0.274,0.726,-0.7003,3
+3,The chief ethics officer of the Environmental Protection Agency has been working behind the scenes to push for inde… https://t.co/AcbpRGGfHO,Sun Jul 01 02:08:18 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,4
+4,Where do New York City’s elite high schools get their students? Our map shows that 10 middle schools account for a… https://t.co/4MveR2WW41,Sun Jul 01 01:50:55 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,5
+5,"Modern Love: ""'There’s something I have to tell you,' John said. Do you remember ever wanting to hear the sentence… https://t.co/vpGkP3FJ4x",Sun Jul 01 01:33:33 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6369}",0.181,0.0,0.819,0.6369,6
+6,What the public knew about Emma Gatewood was already remarkable. But what they didn't know is even more remarkable. https://t.co/kughRt70Vy,Sun Jul 01 01:15:53 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.802}",0.286,0.0,0.714,0.802,7
+7,"For Puerto Rican Storm Evacuees, Another Moving Day Looms https://t.co/EQyoWdoOWv",Sun Jul 01 00:59:44 +0000 2018,@nytimes,"{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.1531}",0.0,0.151,0.849,-0.1531,8
+8,.@margalitfox has been a New York Times obituary writer for 14 years. Now she's taking a crack at her own epitaph. https://t.co/TessXXZw4p,Sun Jul 01 00:54:34 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,9
+9,More and more desperate families are turning to complex and dangerous smuggling techniques to get relatives to the… https://t.co/8BWcv2SB3w,Sun Jul 01 00:37:10 +0000 2018,@nytimes,"{'neg': 0.361, 'neu': 0.639, 'pos': 0.0, 'compound': -0.8425}",0.0,0.361,0.639,-0.8425,10
+10,Our favorite summer cookout appetizers: Because you need something to snack on while the grill heats up https://t.co/TiWxNxQgK5,Sun Jul 01 00:20:27 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.4588}",0.15,0.0,0.85,0.4588,11
+11,He was known across the internet as “Pompeii’s Unluckiest Man.” But after finding his intact skull archaeologists a… https://t.co/clJPrIloZT,Sun Jul 01 00:02:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.2023}",0.091,0.0,0.909,0.2023,12
+12,Top Border Patrol Official to Serve as Acting Director of Immigration and Customs Agency https://t.co/Ed3sl9m03Z,Sat Jun 30 23:44:37 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}",0.114,0.0,0.886,0.2023,13
+13,Find the perfect recipe for your Fourth of July celebration https://t.co/FstlKbR0nd,Sat Jun 30 23:43:24 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.5719}",0.27,0.0,0.73,0.5719,14
+14,"Vladimir Jurowski Breaks Molds in London, Berlin and Beyond https://t.co/4epRL6rWvS",Sat Jun 30 23:25:04 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,15
+15,"As Oumuamua passed through our solar system, something other than gravity was pushing the object away from the sun https://t.co/XXv8nbt93O",Sat Jun 30 23:12:50 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,16
+16,A look inside Tesla’s factory shows the audacity of Elon Musk’s strategy to make cars a different way — and the ris… https://t.co/4BUKpgN0XA,Sat Jun 30 22:56:28 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,17
+17,"Bavaria: Affluent, Picturesque — and Angry https://t.co/zah14Q1U9w",Sat Jun 30 22:39:30 +0000 2018,@nytimes,"{'neg': 0.333, 'neu': 0.404, 'pos': 0.263, 'compound': -0.1779}",0.263,0.333,0.404,-0.1779,18
+18,"In Opinion
+
+Op-Ed contributor Cindi Leive writes, ""No woman owes anyone an answer about whether she has or hasn’t.… https://t.co/oL056ZFvXo",Sat Jun 30 22:30:03 +0000 2018,@nytimes,"{'neg': 0.104, 'neu': 0.896, 'pos': 0.0, 'compound': -0.296}",0.0,0.104,0.896,-0.296,19
+19,"Eileen Higgins’s surprise victory in a heavily Hispanic district has deeply unsettled Republicans in South Florida,… https://t.co/XHFCUron9Q",Sat Jun 30 22:15:04 +0000 2018,@nytimes,"{'neg': 0.139, 'neu': 0.749, 'pos': 0.112, 'compound': -0.1263}",0.112,0.139,0.749,-0.1263,20
+20,Smugglers and stash houses. Bribes and shakedowns. The price of the journey to escape gang violence in El Salvador… https://t.co/9TAUPPi1qD,Sat Jun 30 22:00:05 +0000 2018,@nytimes,"{'neg': 0.335, 'neu': 0.602, 'pos': 0.064, 'compound': -0.802}",0.064,0.335,0.602,-0.802,21
+21,Eat: How to Unlock the Secret Flavor Hidden at the Apricot’s Core https://t.co/MwUsY7QomX,Sat Jun 30 21:56:24 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,22
+22,You’ll need something to nibble on while food sizzles on the grill https://t.co/MZKNPluNNi,Sat Jun 30 21:45:06 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,23
+23,RT @jadabird: Getting 3 paragraphs on managing my period into the @nytimes = one of the prouder moments of this #52places2018 trip. https:/…,Sat Jun 30 21:33:54 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4939}",0.138,0.0,0.862,0.4939,24
+24,"Gwyneth Paltrow described how she was expected to keep Harvey Weinstein’s unwanted advances a secret. Months later,… https://t.co/Qx4MTUcefF",Sat Jun 30 21:30:07 +0000 2018,@nytimes,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.2263}",0.0,0.106,0.894,-0.2263,25
+25,"Welcome to a highly diverse Toronto school just for kindergartners: 630 children, 24 classes, 40 languages https://t.co/XpbWI26Pr7",Sat Jun 30 21:15:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.4588}",0.167,0.0,0.833,0.4588,26
+26,"It’s the season of hot dog condiment blobs, stubborn sunscreen residue and sweat stains … everywhere. Here’s how to… https://t.co/7HJ9fHRJ5e",Sat Jun 30 21:00:13 +0000 2018,@nytimes,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.4019}",0.0,0.13,0.87,-0.4019,27
+27,"Toys ‘R’ Us, a brand that dates to 1957, closed the last of its 735 stores across the country  https://t.co/UrEmMeN1jK",Sat Jun 30 20:45:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,28
+28,"With the Canada Day tariff, the country joins China, Europe and Mexico, among others, in retaliating against Americ… https://t.co/tJ3LC4GjPd",Sat Jun 30 20:30:02 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,29
+29,With protests being held around the country on Saturday to demand the reunification of parents and children separat… https://t.co/HQFpFQbS5U,Sat Jun 30 20:19:06 +0000 2018,@nytimes,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.34}",0.0,0.167,0.833,-0.34,30
+30,"RT @nytopinion: When @Ocasio2018 asked 15 of her fellow restaurant workers if they had health care and all of them said no, she realized th…",Sat Jun 30 20:17:57 +0000 2018,@nytimes,"{'neg': 0.077, 'neu': 0.81, 'pos': 0.113, 'compound': 0.25}",0.113,0.077,0.81,0.25,31
+31,"In total, organizers anticipated more than 700 protests, in all 50 states and even internationally https://t.co/oqK29G0lbt",Sat Jun 30 20:14:13 +0000 2018,@nytimes,"{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.2878}",0.0,0.126,0.874,-0.2878,32
+32,"RT @EricLiptonNYT: JUST POSTED: EPA's top ethics official had repeatedly come to defense of Scott Pruitt in ethics memos. Now he reveals, i…",Sat Jun 30 20:04:12 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.3182}",0.136,0.0,0.864,0.3182,33
+33,"Deep in the Bible Belt, L.G.B.T. communities are fighting for greater visibility and acceptance… https://t.co/NlMfQt6YeM",Sat Jun 30 20:01:05 +0000 2018,@nytimes,"{'neg': 0.139, 'neu': 0.722, 'pos': 0.139, 'compound': 0.0}",0.139,0.139,0.722,0.0,34
+34,"Cristiano Ronaldo and Lionel Messi, 2 of the best soccer players in the world, were both eliminated from the World… https://t.co/gnDzkOPoDB",Sat Jun 30 19:58:57 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6369}",0.181,0.0,0.819,0.6369,35
+35,"This young Afghan is protesting a war that has, so far, swallowed his father, his uncle, his sister, his eyes and h… https://t.co/BtJdy5omAz",Sat Jun 30 19:45:05 +0000 2018,@nytimes,"{'neg': 0.251, 'neu': 0.749, 'pos': 0.0, 'compound': -0.7717}",0.0,0.251,0.749,-0.7717,36
+36,"Migration into Europe is down — except in Spain, where it poses a challenge for the new government https://t.co/FsC4XYZnwa",Sat Jun 30 19:30:10 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.0772}",0.075,0.0,0.925,0.0772,37
+37,"Uruguay back on top, 2-1! Edinson Cavani scored again. https://t.co/g05nqQDrxw",Sat Jun 30 19:24:30 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.2714}",0.189,0.0,0.811,0.2714,38
+38,"A short corner, a Guerreiro cross and it’s Pepe who leaps for the headed goal. Portugal tied Uruguay 1-1 in the 54t… https://t.co/U7SXQVw3zd",Sat Jun 30 19:16:35 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,39
+39,"The California Bay Area is so expensive, a family of 4 making $117,400 is considered low-income in 3 counties https://t.co/wgQ8x2rkKs",Sat Jun 30 19:15:03 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,40
+40,"In Opinion
+
+Op-Ed columnist @michelleinbklyn writes, ""The socialists see themselves as building the world they want… https://t.co/qOYfxr1SI9",Sat Jun 30 19:07:04 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,41
+41,Belgium has just inaugurated a square after a Congolese leader they jailed and helped overthrow https://t.co/lk3AhwIho4,Sat Jun 30 19:00:06 +0000 2018,@nytimes,"{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.4939}",0.0,0.198,0.802,-0.4939,42
+42,"In Sarasota, there is a community surrounding a litany of roadside psychics and more than 100 mediums and spiritual… https://t.co/G7dBeGleZt",Sat Jun 30 18:45:06 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,43
+43,"Japan's Hayabusa2 has arrived at the Ryugu asteroid, sending back views of its dimpled and rock-strewn surface. It'… https://t.co/JuOGZyOwnK",Sat Jun 30 18:30:12 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,44
+44,"RT @TheSteinLine: With nine hours and change to go until the opening bell, here’s your leaguewide preview of NBA free agency from SportsSun…",Sat Jun 30 18:29:11 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.5106}",0.13,0.0,0.87,0.5106,45
+45,Uruguay took a 1-0 lead over Portugal with a header goal by Edinson Cavani in the 7th minute https://t.co/g05nqQDrxw,Sat Jun 30 18:15:01 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,46
+46,"In Opinion
+
+The editorial board writes, ""The Trump administration has committed a gross offense. It is the duty of… https://t.co/N3HE1McTMH",Sat Jun 30 18:04:40 +0000 2018,@nytimes,"{'neg': 0.22, 'neu': 0.69, 'pos': 0.091, 'compound': -0.4588}",0.091,0.22,0.69,-0.4588,47
+47,"As President Trump consolidates power, Democrats face a moment of extraordinary conflict, with an activist wing pus… https://t.co/MzSc58nSuF",Sat Jun 30 18:00:05 +0000 2018,@nytimes,"{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3182}",0.0,0.126,0.874,-0.3182,48
+48,"Portugal, and one of the best players of the tournament, Cristiano Ronaldo, faces off against Uruguay and another o… https://t.co/H0wjp7ud62",Sat Jun 30 17:53:44 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6369}",0.181,0.0,0.819,0.6369,49
+49,Many on the left have traded an absolutist commitment to free speech for one sensitive to the harms it can inflict  https://t.co/Xro7MDPGHQ,Sat Jun 30 17:45:05 +0000 2018,@nytimes,"{'neg': 0.114, 'neu': 0.676, 'pos': 0.21, 'compound': 0.4019}",0.21,0.114,0.676,0.4019,50
+50,"RT @anniecorreal: As protesters around the country demand the reunification of parents and children, here’s the story of one of the few mot…",Sat Jun 30 17:35:28 +0000 2018,@nytimes,"{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.34}",0.0,0.139,0.861,-0.34,51
+51,President Trump tweeted that Saudi Arabia might raise production to up to 2 million barrels a day https://t.co/5XxnZks1Wn,Sat Jun 30 17:30:07 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,52
+52,RT @NYTNational: We spent some time in Alabama with L.G.B.T. communities who are fighting for greater visibility and acceptance. https://t.…,Sat Jun 30 17:26:20 +0000 2018,@nytimes,"{'neg': 0.1, 'neu': 0.68, 'pos': 0.22, 'compound': 0.4588}",0.22,0.1,0.68,0.4588,53
+53,"""We are not the enemy,"" said Pat Furgurson, a reporter for The Capital, where 5 people were killed in a shooting on… https://t.co/VQRqdAYTni",Sat Jun 30 17:15:07 +0000 2018,@nytimes,"{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.6705}",0.0,0.191,0.809,-0.6705,54
+54,You may not be a World Cup player. But you could be a spot the ball player. https://t.co/Ny1oKW3iiv https://t.co/Ntoh3ziJI6,Sat Jun 30 17:00:12 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,55
+55,The United States Senate’s 3 black members introduced a bill that would make lynching a federal hate crime. https://t.co/GUjdJqg6NF,Sat Jun 30 16:45:03 +0000 2018,@nytimes,"{'neg': 0.313, 'neu': 0.565, 'pos': 0.122, 'compound': -0.6597}",0.122,0.313,0.565,-0.6597,56
+56,"When radio host and comedian John Melendez, known as “Stuttering John,” dialed the White House switchboard imperson… https://t.co/hca5fIkdTL",Sat Jun 30 16:30:11 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3818}",0.133,0.0,0.867,0.3818,57
+57,"The vast sprawl of suburbs and satellite towns around Paris, disdained by some as a breeding ground for crime and t… https://t.co/Iil66AyeSS",Sat Jun 30 16:15:05 +0000 2018,@nytimes,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.5423}",0.0,0.149,0.851,-0.5423,58
+58,"“I can say I am equal.” Carrie Gracie, the BBC's former China editor, received an apology from the broadcaster and… https://t.co/d5pGecgBCu",Sat Jun 30 16:05:01 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.941, 'pos': 0.059, 'compound': 0.0516}",0.059,0.0,0.941,0.0516,59
+59,A 7-goal thriller ended with France winning 4-3 against Argentina. Lionel Messi’s side ran out of time and are elim… https://t.co/amHThaIq3t,Sat Jun 30 15:56:24 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.5859}",0.211,0.0,0.789,0.5859,60
+60,"Sergio Aguero scored a goal in stoppage time for Argentina, cutting France’s lead to 4-3 https://t.co/G9SrKmakZK",Sat Jun 30 15:53:42 +0000 2018,@nytimes,"{'neg': 0.097, 'neu': 0.903, 'pos': 0.0, 'compound': -0.128}",0.0,0.097,0.903,-0.128,61
+61,ARGENTINA SCORES! https://t.co/G9SrKmakZK,Sat Jun 30 15:52:26 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,62
+62,"In Opinion
+
+The author Dave Eggers writes, ""Never have we had a president not just indifferent to the arts, but act… https://t.co/ebk770jnOV",Sat Jun 30 15:50:04 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0762}",0.061,0.0,0.939,0.0762,63
+63,"There are 19 other House incumbents running for re-election this year, who, like Joseph Crowley, have not faced a p… https://t.co/FGSdE6r7zx",Sat Jun 30 15:35:04 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}",0.116,0.0,0.884,0.3612,64
+64,UPDATE: France are now up 4-2. Kylian Mbappé scored twice in 3 minutes to give France a shocking lead over Argentin… https://t.co/4rRRDtjfrr,Sat Jun 30 15:29:01 +0000 2018,@nytimes,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.4019}",0.0,0.124,0.876,-0.4019,65
+65,GOAL! What a great game this is. France is now leading 3-2. https://t.co/toyW9XB9Yb,Sat Jun 30 15:24:34 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.6588}",0.285,0.0,0.715,0.6588,66
+66,"For Cruz, the harrowing journey of crossing the U.S. border and paying thousands of dollars to smugglers to get him… https://t.co/3Uv53Lkp6A",Sat Jun 30 15:21:23 +0000 2018,@nytimes,"{'neg': 0.107, 'neu': 0.893, 'pos': 0.0, 'compound': -0.34}",0.0,0.107,0.893,-0.34,67
+67,Migrants — some of them infants — were locked in filthy stash houses while they waited for smugglers to pick them u… https://t.co/5cIToj1Byq,Sat Jun 30 15:18:13 +0000 2018,@nytimes,"{'neg': 0.107, 'neu': 0.893, 'pos': 0.0, 'compound': -0.34}",0.0,0.107,0.893,-0.34,68
+68,"Throughout their journey, Cruz and fellow migrants were at the mercy of a smuggling network and cops who expected b… https://t.co/DBIGSsalR7",Sat Jun 30 15:15:07 +0000 2018,@nytimes,"{'neg': 0.131, 'neu': 0.763, 'pos': 0.106, 'compound': -0.1531}",0.106,0.131,0.763,-0.1531,69
+69,"As the number of Central Americans arriving at the southern border or sneaking across it has surged, the Trump admi… https://t.co/8lRN0L1YI6",Sat Jun 30 15:12:06 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0772}",0.061,0.0,0.939,0.0772,70
+70,"We traced Cruz’s treacherous journey from El Salvador to McAllen, Texas, through photos, texts and GPS positions… https://t.co/eyue7LZFto",Sat Jun 30 15:09:46 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,71
+71,"Even with his family’s payment, Cruz slept amid filth and vermin. He watched guides abandon migrants who couldn’t k… https://t.co/kePNh30Pt4",Sat Jun 30 15:06:14 +0000 2018,@nytimes,"{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.4404}",0.0,0.132,0.868,-0.4404,72
+72,"The family of Christopher Cruz, 22, paid more than $12,000 for him to be smuggled into the U.S. from El Salvador. C… https://t.co/PpMw1FDWI4",Sat Jun 30 15:03:03 +0000 2018,@nytimes,"{'neg': 0.102, 'neu': 0.898, 'pos': 0.0, 'compound': -0.3612}",0.0,0.102,0.898,-0.3612,73
+73,More and more desperate families are turning to complex and dangerous smuggling techniques to get relatives to the… https://t.co/ogeBRAcfxz,Sat Jun 30 15:00:12 +0000 2018,@nytimes,"{'neg': 0.361, 'neu': 0.639, 'pos': 0.0, 'compound': -0.8425}",0.0,0.361,0.639,-0.8425,74
+74,A look inside Tesla's factory shows the audacity of Elon Musk's strategy to make cars a different way —  and the ri… https://t.co/uxNPVR77uj,Sat Jun 30 14:45:01 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,75
+75,"A museum dedicated to the history of Philadelphia is closing its doors to the public, and it is unclear when — or w… https://t.co/l7b0f3oWZs",Sat Jun 30 14:30:10 +0000 2018,@nytimes,"{'neg': 0.08, 'neu': 0.8, 'pos': 0.12, 'compound': 0.25}",0.12,0.08,0.8,0.25,76
+76,"Here are the top films that our chief critics, A.O. Scott and Manohla Dargis, are recommending so far this year https://t.co/GkW5dR86yi",Sat Jun 30 14:17:02 +0000 2018,@nytimes,"{'neg': 0.096, 'neu': 0.826, 'pos': 0.078, 'compound': -0.1027}",0.078,0.096,0.826,-0.1027,77
+77,Your weekend playlist has arrived. Here are the week’s most notable new songs and videos. https://t.co/qE0PkfffvF,Sat Jun 30 14:02:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,78
+78,Parents and Children Remain Separated by Miles and Bureaucracy https://t.co/vtaYjBF9WM,Sat Jun 30 13:54:13 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,79
+79,Where do New York City’s elite high schools get their students? Our map shows that 10 middle schools account for a… https://t.co/eidDFtzyrQ,Sat Jun 30 13:41:06 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,80
+80,Can Elon Musk and Tesla Reinvent the Way Cars Are Made? https://t.co/jypoE3Xulj,Sat Jun 30 13:25:07 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,81
+81,RT @nytopinion: The marches taking place across the country this weekend are really about the soul of America https://t.co/ZSWbN25mes https…,Sat Jun 30 13:23:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,82
+82,"“I knew God would not leave us out,” Lionel Messi said after Argentina qualified for the round of 16 https://t.co/FQHIdwxlho",Sat Jun 30 13:11:02 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.3067}",0.153,0.0,0.847,0.3067,83
+83,"Modern Love: ""'There’s something I have to tell you,' John said. Do you remember ever wanting to hear the sentence… https://t.co/SypeCLHJVe",Sat Jun 30 13:02:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6369}",0.181,0.0,0.819,0.6369,84
+84,"""It was like a weight had been lifted from my shoulders. I didn’t know how heavy it was until I put it down.""
+
+How… https://t.co/vCUC5qguxf",Sat Jun 30 12:42:02 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.3612}",0.106,0.0,0.894,0.3612,85
+85,"In Opinion
+
+Emma Brockes writes: ""A woman ran after me as I left a friend’s party and asked if I thought she should… https://t.co/P2JRh28n5T",Sat Jun 30 12:22:05 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}",0.119,0.0,0.881,0.4019,86
+86,Argentina vs. France: World Cup 2018 Live Updates https://t.co/kXp8lHlK2i,Sat Jun 30 12:19:53 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,87
+87,Not sure what to do this weekend in NYC? We’ve got you. https://t.co/20rs7hLzeN,Sat Jun 30 12:00:18 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}",0.161,0.0,0.839,0.3182,88
+88,Your laptop is probably dirty and gross. It might be time to clean it. https://t.co/FZpPPUfVX1,Sat Jun 30 11:46:03 +0000 2018,@nytimes,"{'neg': 0.29, 'neu': 0.58, 'pos': 0.13, 'compound': -0.5106}",0.13,0.29,0.58,-0.5106,89
+89,France faces Argentina in the round of 16 today. Many of the players on the World Cup stage came from this sprawl o… https://t.co/KVFHox0VLU,Sat Jun 30 11:31:06 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,90
+90,"Here's the 2018 election calendar 
+https://t.co/R4SZfQgqJb",Sat Jun 30 11:14:07 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,91
+91,"RT @nytpolitics: Larry Kudlow, the White House economic adviser, said the federal budget deficit is “rapidly” decreasing. Three sources of…",Sat Jun 30 11:02:03 +0000 2018,@nytimes,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.4019}",0.0,0.124,0.876,-0.4019,92
+92,"The Week in Good News: A Helpful Teenager, the Belize Barrier Reef, Bird-Watching https://t.co/gUrdsMG8bX",Sat Jun 30 10:39:12 +0000 2018,@nytimes,"{'neg': 0.087, 'neu': 0.581, 'pos': 0.331, 'compound': 0.6369}",0.331,0.087,0.581,0.6369,93
+93,Our newsroom doesn’t have a poet laureate. But this guy is pretty close. https://t.co/yjECtusWSW,Sat Jun 30 10:29:02 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.4939}",0.211,0.0,0.789,0.4939,94
+94,Frugal Traveler: The Frugal Five https://t.co/RoZRnD8OVN,Sat Jun 30 10:12:16 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,95
+95,Airline stopover programs can double your destinations--here's how to get the most out of them https://t.co/WjZwnnZ5C5,Sat Jun 30 10:10:43 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,96
+96,“We have a Haring!” A Keith Haring mural comes out of hiding in Amsterdam. https://t.co/vo6hspj9TZ,Sat Jun 30 09:52:22 +0000 2018,@nytimes,"{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.3595}",0.0,0.172,0.828,-0.3595,97
+97,"RT @nytmedia: “When your newspaper is covering a community, it’s a much more intimate relationship that you have with readers. And they let…",Sat Jun 30 09:36:03 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,98
+98,"Spain’s Migrant Wave Grows, Even as Europe’s Subsides https://t.co/c31idLjmSj",Sat Jun 30 09:12:24 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,99
+99,"Chobani, the Greek yogurt maker with progressive workplace policies and a large refugee workforce, has a major new… https://t.co/AQh3BBsSHT",Sat Jun 30 09:07:12 +0000 2018,@nytimes,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,1.0,0.0,100
